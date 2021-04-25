@@ -1482,50 +1482,14 @@ F 3 "" H 9850 1250 50  0001 C CNN
 	1    9850 1250
 	1    0    0    -1  
 $EndComp
-Text Label 7550 1650 0    50   ~ 0
+Text Label 7500 1650 0    50   ~ 0
 BATT+
 $Comp
-L Frequently_Used_LE:TestPoint_1 W3
-U 1 1 5EC3644F
-P 7950 1450
-F 0 "W3" V 7850 1500 59  0000 L CNN
-F 1 "2.0x3.25" V 8000 1500 59  0000 L TNN
-F 2 "Li_Ion_LE:Pad_2.0-3.25_w_TH" H 7950 1450 50  0001 C CNN
-F 3 "None" H 7950 1450 50  0001 C CNN
-F 4 "Wire solder point" H 7950 1450 50  0001 C CNN "Description"
-F 5 "None" H 7950 1450 50  0001 C CNN "Source Part No."
-F 6 "None" H 7950 1450 50  0001 C CNN "Manufacturer Part No."
-F 7 "None" H 7950 1450 50  0001 C CNN "Manufacturer Name"
-F 8 "None" H 7950 1450 50  0001 C CNN "Source"
-F 9 "Mouser" H 7950 1450 50  0001 C CNN "Source 2"
-F 10 "None" H 7950 1450 50  0001 C CNN "Source 2 Part No."
-	1    7950 1450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Frequently_Used_LE:TestPoint_1 W4
-U 1 1 5EC17D57
-P 8350 1450
-F 0 "W4" V 8250 1500 59  0000 L CNN
-F 1 "2.0x3.25" V 8400 1500 59  0000 L TNN
-F 2 "Li_Ion_LE:Pad_2.0-3.25_w_TH" H 8350 1450 50  0001 C CNN
-F 3 "None" H 8350 1450 50  0001 C CNN
-F 4 "Wire solder point" H 8350 1450 50  0001 C CNN "Description"
-F 5 "None" H 8350 1450 50  0001 C CNN "Source Part No."
-F 6 "None" H 8350 1450 50  0001 C CNN "Manufacturer Part No."
-F 7 "None" H 8350 1450 50  0001 C CNN "Manufacturer Name"
-F 8 "None" H 8350 1450 50  0001 C CNN "Source"
-F 9 "Mouser" H 8350 1450 50  0001 C CNN "Source 2"
-F 10 "None" H 8350 1450 50  0001 C CNN "Source 2 Part No."
-	1    8350 1450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Frequently_Used_LE:SW_SPST SW1
+L Button_Switch_LE:CL-SB-22A SW1
 U 1 1 5EE83AA5
 P 8150 1650
-F 0 "SW1" H 8150 1800 50  0000 C CNN
-F 1 "SW_SPST" H 8150 1900 50  0000 C CNN
+F 0 "SW1" H 8050 1500 50  0000 C CNN
+F 1 "SW_DPST" H 8140 1430 50  0000 C CNN
 F 2 "Button_Switch_LE:CL-SB-22A_Edge" H 8150 1650 50  0001 C CNN
 F 3 "https://www.nidec-copal-electronics.com/e/catalog/switch/cl-sb.pdf" H 8150 1650 50  0001 C CNN
 F 4 "Slide Switch DPDT Surface Mount, Right Angle" H 8150 1650 50  0001 C CNN "Description"
@@ -1536,30 +1500,28 @@ F 8 "Digikey" H 8150 1650 50  0001 C CNN "Source"
 F 9 "Mouser" H 8150 1650 50  0001 C CNN "Source 2"
 F 10 "229-CL-SB-22A-11T" H 8150 1650 50  0001 C CNN "Source 2 Part No."
 	1    8150 1650
-	-1   0    0    1   
+	1    0    0    -1  
 $EndComp
 $Comp
 L Frequently_Used_LE:R R14
 U 1 1 60844507
-P 9500 1400
-F 0 "R14" H 9550 1450 59  0000 L CNN
-F 1 "10k" H 9550 1350 59  0000 L CNN
-F 2 "Frequently_Used_LE:0603_1608Metric" H 9500 1400 50  0001 C CNN
-F 3 "https://www.mouser.com/datasheet/2/348/esr_e-1139161.pdf" H 9500 1400 50  0001 C CNN
-F 4 "10 kOhms ±1% 0.25W, 1/4W Chip Resistor" H 9500 1400 50  0001 C CNN "Description"
-F 5 "-" H 9500 1400 50  0001 C CNN "Source Part No."
-F 6 "ESR03EZPF1002" H 9500 1400 50  0001 C CNN "Manufacturer Part No."
-F 7 "ROHM Semiconductor" H 9500 1400 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 9500 1400 50  0001 C CNN "Source"
-F 9 "Mouser" H 9500 1400 50  0001 C CNN "Source 2"
-F 10 "755-ESR03EZPF1002" H 9500 1400 50  0001 C CNN "Source 2 Part No."
-	1    9500 1400
+P 9470 1400
+F 0 "R14" H 9520 1450 59  0000 L CNN
+F 1 "10k" H 9520 1350 59  0000 L CNN
+F 2 "Frequently_Used_LE:0603_1608Metric" H 9470 1400 50  0001 C CNN
+F 3 "https://www.mouser.com/datasheet/2/348/esr_e-1139161.pdf" H 9470 1400 50  0001 C CNN
+F 4 "10 kOhms ±1% 0.25W, 1/4W Chip Resistor" H 9470 1400 50  0001 C CNN "Description"
+F 5 "-" H 9470 1400 50  0001 C CNN "Source Part No."
+F 6 "ESR03EZPF1002" H 9470 1400 50  0001 C CNN "Manufacturer Part No."
+F 7 "ROHM Semiconductor" H 9470 1400 50  0001 C CNN "Manufacturer Name"
+F 8 "Digikey" H 9470 1400 50  0001 C CNN "Source"
+F 9 "Mouser" H 9470 1400 50  0001 C CNN "Source 2"
+F 10 "755-ESR03EZPF1002" H 9470 1400 50  0001 C CNN "Source 2 Part No."
+	1    9470 1400
 	1    0    0    -1  
 $EndComp
 Text Label 8600 1150 0    50   ~ 0
 BGND
-Wire Wire Line
-	9350 1150 9500 1150
 Wire Wire Line
 	9850 1150 9850 1250
 Wire Wire Line
@@ -1567,55 +1529,41 @@ Wire Wire Line
 Wire Wire Line
 	9150 1450 9150 1650
 Wire Wire Line
-	9150 1650 8950 1650
+	9150 1650 9060 1650
 Wire Wire Line
-	8650 1650 8450 1650
+	8760 1650 8540 1650
 Wire Wire Line
-	8350 1450 8350 1550
+	8540 1520 8540 1650
 Wire Wire Line
-	8350 1550 8450 1550
-Wire Wire Line
-	8450 1550 8450 1650
-Connection ~ 8450 1650
-Wire Wire Line
-	8450 1650 8350 1650
+	8370 1750 8370 1650
 Wire Wire Line
 	7950 1650 7850 1650
 Wire Wire Line
-	7950 1450 7950 1550
-Wire Wire Line
-	7950 1550 7850 1550
-Wire Wire Line
-	7850 1550 7850 1650
+	7850 1520 7850 1650
 Connection ~ 7850 1650
 Wire Wire Line
-	7850 1650 7550 1650
+	7850 1650 7500 1650
 Wire Wire Line
-	9500 1250 9500 1150
-Connection ~ 9500 1150
+	9470 1550 9470 1650
 Wire Wire Line
-	9500 1150 9850 1150
-Wire Wire Line
-	9500 1550 9500 1650
-Wire Wire Line
-	9500 1650 9150 1650
+	9470 1650 9150 1650
 Connection ~ 9150 1650
 $Comp
 L Frequently_Used_LE:R R13
 U 1 1 6095E97E
-P 8800 1650
-F 0 "R13" V 8700 1550 59  0000 L CNN
-F 1 "330" V 8900 1550 59  0000 L CNN
-F 2 "Frequently_Used_LE:0603_1608Metric" H 8800 1650 50  0001 C CNN
-F 3 "https://www.mouser.com/datasheet/2/348/esr_e-1139161.pdf" H 8800 1650 50  0001 C CNN
-F 4 "330 Ohms ±1% 0.25W, 1/4W Chip Resistor" H 8800 1650 50  0001 C CNN "Description"
-F 5 "-" H 8800 1650 50  0001 C CNN "Source Part No."
-F 6 "ESR03EZPF3300" H 8800 1650 50  0001 C CNN "Manufacturer Part No."
-F 7 "ROHM Semiconductor" H 8800 1650 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 8800 1650 50  0001 C CNN "Source"
-F 9 "Mouser" H 8800 1650 50  0001 C CNN "Source 2"
-F 10 "755-ESR03EZPF3300" H 8800 1650 50  0001 C CNN "Source 2 Part No."
-	1    8800 1650
+P 8910 1650
+F 0 "R13" V 8810 1550 59  0000 L CNN
+F 1 "330" V 9010 1550 59  0000 L CNN
+F 2 "Frequently_Used_LE:0603_1608Metric" H 8910 1650 50  0001 C CNN
+F 3 "https://www.mouser.com/datasheet/2/348/esr_e-1139161.pdf" H 8910 1650 50  0001 C CNN
+F 4 "330 Ohms ±1% 0.25W, 1/4W Chip Resistor" H 8910 1650 50  0001 C CNN "Description"
+F 5 "-" H 8910 1650 50  0001 C CNN "Source Part No."
+F 6 "ESR03EZPF3300" H 8910 1650 50  0001 C CNN "Manufacturer Part No."
+F 7 "ROHM Semiconductor" H 8910 1650 50  0001 C CNN "Manufacturer Name"
+F 8 "Digikey" H 8910 1650 50  0001 C CNN "Source"
+F 9 "Mouser" H 8910 1650 50  0001 C CNN "Source 2"
+F 10 "755-ESR03EZPF3300" H 8910 1650 50  0001 C CNN "Source 2 Part No."
+	1    8910 1650
 	0    1    1    0   
 $EndComp
 Wire Wire Line
@@ -1626,7 +1574,7 @@ $Comp
 L Li_Ion_LE:D_NTS12120EMFST1G D1
 U 1 1 E0548A51
 P 8125 3350
-F 0 "D1" H 8025 3550 59  0000 L TNN
+F 0 "D1" H 8060 3490 59  0000 L TNN
 F 1 "NTS12120EMFST1G" H 8125 3200 59  0000 C CNN
 F 2 "Li_Ion_LE:NTS12120EMFST1G" H 8125 3350 50  0001 C CNN
 F 3 "https://www.onsemi.com/pub/Collateral/NTS12120EMFS-D.PDF" H 8125 3350 50  0001 C CNN
@@ -1645,4 +1593,53 @@ Wire Wire Line
 	7875 3350 7975 3350
 Wire Wire Line
 	8275 3350 8475 3350
+Wire Wire Line
+	8350 1750 8370 1750
+Connection ~ 8540 1650
+Wire Wire Line
+	8540 1650 8370 1650
+$Comp
+L Frequently_Used_LE:TestPoint_1 W3
+U 1 1 5EC3644F
+P 7850 1520
+F 0 "W3" H 7660 1770 59  0000 L CNN
+F 1 "1.5x2.5" H 7660 1710 59  0000 L TNN
+F 2 "Li_Ion_LE:Pad_1.5-2.5_w_TH" H 7850 1520 50  0001 C CNN
+F 3 "None" H 7850 1520 50  0001 C CNN
+F 4 "Wire solder point" H 7850 1520 50  0001 C CNN "Description"
+F 5 "None" H 7850 1520 50  0001 C CNN "Source Part No."
+F 6 "None" H 7850 1520 50  0001 C CNN "Manufacturer Part No."
+F 7 "None" H 7850 1520 50  0001 C CNN "Manufacturer Name"
+F 8 "None" H 7850 1520 50  0001 C CNN "Source"
+F 9 "Mouser" H 7850 1520 50  0001 C CNN "Source 2"
+F 10 "None" H 7850 1520 50  0001 C CNN "Source 2 Part No."
+	1    7850 1520
+	1    0    0    -1  
+$EndComp
+$Comp
+L Frequently_Used_LE:TestPoint_1 W4
+U 1 1 5EC17D57
+P 8540 1520
+F 0 "W4" H 8340 1780 59  0000 L CNN
+F 1 "1.5x2.5" H 8340 1710 59  0000 L TNN
+F 2 "Li_Ion_LE:Pad_1.5-2.5_w_TH" H 8540 1520 50  0001 C CNN
+F 3 "None" H 8540 1520 50  0001 C CNN
+F 4 "Wire solder point" H 8540 1520 50  0001 C CNN "Description"
+F 5 "None" H 8540 1520 50  0001 C CNN "Source Part No."
+F 6 "None" H 8540 1520 50  0001 C CNN "Manufacturer Part No."
+F 7 "None" H 8540 1520 50  0001 C CNN "Manufacturer Name"
+F 8 "None" H 8540 1520 50  0001 C CNN "Source"
+F 9 "Mouser" H 8540 1520 50  0001 C CNN "Source 2"
+F 10 "None" H 8540 1520 50  0001 C CNN "Source 2 Part No."
+	1    8540 1520
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9350 1150 9470 1150
+Wire Wire Line
+	9470 1250 9470 1150
+Connection ~ 9470 1150
+Wire Wire Line
+	9470 1150 9850 1150
+NoConn ~ 8350 1550
 $EndSCHEMATC
