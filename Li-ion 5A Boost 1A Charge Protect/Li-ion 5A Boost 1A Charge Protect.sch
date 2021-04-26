@@ -74,7 +74,7 @@ P 1300 6600
 F 0 "J1" H 950 7400 70  0000 L CNN
 F 1 "USB_C_FEMALE" H 950 7300 70  0000 L CNN
 F 2 "Connector_LE:GCT_USB4110-GF-A" H 1300 6600 50  0001 C CNN
-F 3 "https://gct.co/files/drawings/usb4125.pdf" H 1300 6600 50  0001 C CNN
+F 3 "https://www.mouser.com/datasheet/2/837/USB4110-1948945.pdf" H 1300 6600 50  0001 C CNN
 F 4 "USB-C Power Female SMD Connector" H 1300 6600 50  0001 C CNN "Description"
 F 5 "2073-USB4110-GF-A-1-ND" H 1300 6600 50  0001 C CNN "Source Part No."
 F 6 "USB4110-GF-A" H 1300 6600 50  0001 C CNN "Manufacturer Part No."
@@ -1487,20 +1487,20 @@ BATT+
 $Comp
 L Button_Switch_LE:CL-SB-22A SW1
 U 1 1 5EE83AA5
-P 8150 1650
-F 0 "SW1" H 8050 1500 50  0000 C CNN
-F 1 "SW_DPST" H 8140 1430 50  0000 C CNN
-F 2 "Button_Switch_LE:CL-SB-22A_Edge" H 8150 1650 50  0001 C CNN
-F 3 "https://www.nidec-copal-electronics.com/e/catalog/switch/cl-sb.pdf" H 8150 1650 50  0001 C CNN
-F 4 "Slide Switch DPDT Surface Mount, Right Angle" H 8150 1650 50  0001 C CNN "Description"
-F 5 "563-1340-1-ND" H 8150 1650 50  0001 C CNN "Source Part No."
-F 6 "CL-SB-22A-11T" H 8150 1650 50  0001 C CNN "Manufacturer Part No."
-F 7 "Nidec Copal Electronics" H 8150 1650 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 8150 1650 50  0001 C CNN "Source"
-F 9 "Mouser" H 8150 1650 50  0001 C CNN "Source 2"
-F 10 "229-CL-SB-22A-11T" H 8150 1650 50  0001 C CNN "Source 2 Part No."
-	1    8150 1650
-	1    0    0    -1  
+P 8150 1750
+F 0 "SW1" H 8050 1600 50  0000 C CNN
+F 1 "SW_DPST" H 8140 1530 50  0000 C CNN
+F 2 "Button_Switch_LE:CL-SB-22A_Edge" H 8150 1750 50  0001 C CNN
+F 3 "https://www.nidec-copal-electronics.com/e/catalog/switch/cl-sb.pdf" H 8150 1750 50  0001 C CNN
+F 4 "Slide Switch DPDT Surface Mount, Right Angle" H 8150 1750 50  0001 C CNN "Description"
+F 5 "563-1340-1-ND" H 8150 1750 50  0001 C CNN "Source Part No."
+F 6 "CL-SB-22A-11T" H 8150 1750 50  0001 C CNN "Manufacturer Part No."
+F 7 "Nidec Copal Electronics" H 8150 1750 50  0001 C CNN "Manufacturer Name"
+F 8 "Digikey" H 8150 1750 50  0001 C CNN "Source"
+F 9 "Mouser" H 8150 1750 50  0001 C CNN "Source 2"
+F 10 "229-CL-SB-22A-11T" H 8150 1750 50  0001 C CNN "Source 2 Part No."
+	1    8150 1750
+	-1   0    0    1   
 $EndComp
 $Comp
 L Frequently_Used_LE:R R14
@@ -1641,5 +1641,5 @@ Wire Wire Line
 Connection ~ 9470 1150
 Wire Wire Line
 	9470 1150 9850 1150
-NoConn ~ 8350 1550
+NoConn ~ 7950 1850
 $EndSCHEMATC
