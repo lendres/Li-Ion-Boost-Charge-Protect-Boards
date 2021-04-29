@@ -370,8 +370,6 @@ F 10 "None" H 9825 3350 50  0001 C CNN "Source 2 Part No."
 	1    9825 3350
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	5925 3350 6125 3350
 Connection ~ 6925 3350
 Wire Wire Line
 	6925 3350 7225 3350
@@ -1123,7 +1121,7 @@ F 2 "Frequently_Used_LE:0603_1608Metric" H 1325 3150 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/348/esr_e-1139161.pdf" H 1325 3150 50  0001 C CNN
 F 4 "330 Ohms ±1% 0.25W, 1/4W Chip Resistor" H 1325 3150 50  0001 C CNN "Description"
 F 5 "-" H 1325 3150 50  0001 C CNN "Source Part No."
-F 6 "ESR03EZPF3300" H 1325 3150 50  0001 C CNN "Manufacturer Part No."
+F 6 "BUK6D30-40EX" H 1325 3150 50  0001 C CNN "Manufacturer Part No."
 F 7 "ROHM Semiconductor" H 1325 3150 50  0001 C CNN "Manufacturer Name"
 F 8 "Digikey" H 1325 3150 50  0001 C CNN "Source"
 F 9 "Mouser" H 1325 3150 50  0001 C CNN "Source 2"
@@ -1254,22 +1252,6 @@ Wire Wire Line
 	1200 950  1600 950 
 Text Label 1825 3150 0    50   ~ 0
 PVDD
-$Comp
-L power:PWR_FLAG #FLG03
-U 1 1 5EC7BC40
-P 6125 3300
-F 0 "#FLG03" H 6125 3375 50  0001 C CNN
-F 1 "PWR_FLAG" H 6125 3473 50  0000 C CNN
-F 2 "" H 6125 3300 50  0001 C CNN
-F 3 "~" H 6125 3300 50  0001 C CNN
-	1    6125 3300
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	6125 3300 6125 3350
-Connection ~ 6125 3350
-Wire Wire Line
-	6125 3350 6925 3350
 Wire Wire Line
 	3400 1100 3350 1100
 Wire Wire Line
@@ -1308,143 +1290,151 @@ Wire Wire Line
 $Comp
 L Mechanical_LE:Fiducial F1
 U 1 1 5F64DA57
-P 8050 6150
-F 0 "F1" H 8135 6196 50  0000 L CNN
-F 1 "Fiducial" H 8050 5800 50  0001 C CNN
-F 2 "Fiducial_LE:Fiducial_1mm_Mask2mm" H 8050 6000 50  0001 C CNN
-F 3 "None" H 8000 6150 50  0001 C CNN
-F 4 "TOP1" H 8135 6105 50  0000 L CNN "Name"
-F 5 "None" H 8050 5700 50  0001 C CNN "Manufacturer Name"
-F 6 "None" H 8050 5600 50  0001 C CNN "Manufacturer Part No."
-F 7 "None" H 8050 5400 50  0001 C CNN "Source"
-F 8 "None" H 8050 5500 50  0001 C CNN "Source Part No."
-F 9 "Fiducial mark" H 8050 5900 50  0001 C CNN "Description"
-F 10 "Mouser" H 8050 6150 50  0001 C CNN "Source 2"
-F 11 "None" H 8050 6150 50  0001 C CNN "Source 2 Part No."
-	1    8050 6150
+P 7195 6150
+F 0 "F1" H 7280 6196 50  0000 L CNN
+F 1 "Fiducial" H 7195 5800 50  0001 C CNN
+F 2 "Fiducial_LE:Fiducial_1mm_Mask2mm" H 7195 6000 50  0001 C CNN
+F 3 "None" H 7145 6150 50  0001 C CNN
+F 4 "TOP1" H 7280 6105 50  0000 L CNN "Name"
+F 5 "None" H 7195 5700 50  0001 C CNN "Manufacturer Name"
+F 6 "None" H 7195 5600 50  0001 C CNN "Manufacturer Part No."
+F 7 "None" H 7195 5400 50  0001 C CNN "Source"
+F 8 "None" H 7195 5500 50  0001 C CNN "Source Part No."
+F 9 "Fiducial mark" H 7195 5900 50  0001 C CNN "Description"
+F 10 "Mouser" H 7195 6150 50  0001 C CNN "Source 2"
+F 11 "None" H 7195 6150 50  0001 C CNN "Source 2 Part No."
+	1    7195 6150
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical_LE:Fiducial F2
 U 1 1 5F650497
-P 8450 6150
-F 0 "F2" H 8535 6196 50  0000 L CNN
-F 1 "Fiducial" H 8450 5800 50  0001 C CNN
-F 2 "Fiducial_LE:Fiducial_1mm_Mask2mm" H 8450 6000 50  0001 C CNN
-F 3 "None" H 8400 6150 50  0001 C CNN
-F 4 "TOP2" H 8535 6105 50  0000 L CNN "Name"
-F 5 "None" H 8450 5700 50  0001 C CNN "Manufacturer Name"
-F 6 "None" H 8450 5600 50  0001 C CNN "Manufacturer Part No."
-F 7 "None" H 8450 5400 50  0001 C CNN "Source"
-F 8 "None" H 8450 5500 50  0001 C CNN "Source Part No."
-F 9 "Fiducial mark" H 8450 5900 50  0001 C CNN "Description"
-F 10 "Mouser" H 8450 6150 50  0001 C CNN "Source 2"
-F 11 "None" H 8450 6150 50  0001 C CNN "Source 2 Part No."
-	1    8450 6150
+P 7595 6150
+F 0 "F2" H 7680 6196 50  0000 L CNN
+F 1 "Fiducial" H 7595 5800 50  0001 C CNN
+F 2 "Fiducial_LE:Fiducial_1mm_Mask2mm" H 7595 6000 50  0001 C CNN
+F 3 "None" H 7545 6150 50  0001 C CNN
+F 4 "TOP2" H 7680 6105 50  0000 L CNN "Name"
+F 5 "None" H 7595 5700 50  0001 C CNN "Manufacturer Name"
+F 6 "None" H 7595 5600 50  0001 C CNN "Manufacturer Part No."
+F 7 "None" H 7595 5400 50  0001 C CNN "Source"
+F 8 "None" H 7595 5500 50  0001 C CNN "Source Part No."
+F 9 "Fiducial mark" H 7595 5900 50  0001 C CNN "Description"
+F 10 "Mouser" H 7595 6150 50  0001 C CNN "Source 2"
+F 11 "None" H 7595 6150 50  0001 C CNN "Source 2 Part No."
+	1    7595 6150
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical_LE:Fiducial F3
 U 1 1 5F65A398
-P 8050 6400
-F 0 "F3" H 8135 6446 50  0000 L CNN
-F 1 "Fiducial" H 8050 6050 50  0001 C CNN
-F 2 "Fiducial_LE:Fiducial_1mm_Mask2mm" H 8050 6250 50  0001 C CNN
-F 3 "None" H 8000 6400 50  0001 C CNN
-F 4 "TOP3" H 8135 6355 50  0000 L CNN "Name"
-F 5 "None" H 8050 5950 50  0001 C CNN "Manufacturer Name"
-F 6 "None" H 8050 5850 50  0001 C CNN "Manufacturer Part No."
-F 7 "None" H 8050 5650 50  0001 C CNN "Source"
-F 8 "None" H 8050 5750 50  0001 C CNN "Source Part No."
-F 9 "Fiducial mark" H 8050 6150 50  0001 C CNN "Description"
-F 10 "Mouser" H 8050 6400 50  0001 C CNN "Source 2"
-F 11 "None" H 8050 6400 50  0001 C CNN "Source 2 Part No."
-	1    8050 6400
+P 7195 6400
+F 0 "F3" H 7280 6446 50  0000 L CNN
+F 1 "Fiducial" H 7195 6050 50  0001 C CNN
+F 2 "Fiducial_LE:Fiducial_1mm_Mask2mm" H 7195 6250 50  0001 C CNN
+F 3 "None" H 7145 6400 50  0001 C CNN
+F 4 "TOP3" H 7280 6355 50  0000 L CNN "Name"
+F 5 "None" H 7195 5950 50  0001 C CNN "Manufacturer Name"
+F 6 "None" H 7195 5850 50  0001 C CNN "Manufacturer Part No."
+F 7 "None" H 7195 5650 50  0001 C CNN "Source"
+F 8 "None" H 7195 5750 50  0001 C CNN "Source Part No."
+F 9 "Fiducial mark" H 7195 6150 50  0001 C CNN "Description"
+F 10 "Mouser" H 7195 6400 50  0001 C CNN "Source 2"
+F 11 "None" H 7195 6400 50  0001 C CNN "Source 2 Part No."
+	1    7195 6400
 	1    0    0    -1  
 $EndComp
-Text Notes 8450 6700 0    79   ~ 16
+Text Notes 8150 6700 0    79   ~ 16
 Additional Features
 $Comp
 L Mechanical_LE:Fiducial F4
 U 1 1 6081E7B3
-P 8450 6400
-F 0 "F4" H 8535 6446 50  0000 L CNN
-F 1 "Fiducial" H 8450 6050 50  0001 C CNN
-F 2 "Fiducial_LE:Fiducial_1mm_Mask2mm" H 8450 6250 50  0001 C CNN
-F 3 "None" H 8400 6400 50  0001 C CNN
-F 4 "TOP4" H 8535 6355 50  0000 L CNN "Name"
-F 5 "None" H 8450 5950 50  0001 C CNN "Manufacturer Name"
-F 6 "None" H 8450 5850 50  0001 C CNN "Manufacturer Part No."
-F 7 "None" H 8450 5650 50  0001 C CNN "Source"
-F 8 "None" H 8450 5750 50  0001 C CNN "Source Part No."
-F 9 "Fiducial mark" H 8450 6150 50  0001 C CNN "Description"
-F 10 "Mouser" H 8450 6400 50  0001 C CNN "Source 2"
-F 11 "None" H 8450 6400 50  0001 C CNN "Source 2 Part No."
-	1    8450 6400
+P 7595 6400
+F 0 "F4" H 7680 6446 50  0000 L CNN
+F 1 "Fiducial" H 7595 6050 50  0001 C CNN
+F 2 "Fiducial_LE:Fiducial_1mm_Mask2mm" H 7595 6250 50  0001 C CNN
+F 3 "None" H 7545 6400 50  0001 C CNN
+F 4 "TOP4" H 7680 6355 50  0000 L CNN "Name"
+F 5 "None" H 7595 5950 50  0001 C CNN "Manufacturer Name"
+F 6 "None" H 7595 5850 50  0001 C CNN "Manufacturer Part No."
+F 7 "None" H 7595 5650 50  0001 C CNN "Source"
+F 8 "None" H 7595 5750 50  0001 C CNN "Source Part No."
+F 9 "Fiducial mark" H 7595 6150 50  0001 C CNN "Description"
+F 10 "Mouser" H 7595 6400 50  0001 C CNN "Source 2"
+F 11 "None" H 7595 6400 50  0001 C CNN "Source 2 Part No."
+	1    7595 6400
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H1
 U 1 1 608288AB
-P 8950 6150
-F 0 "H1" H 9050 6196 50  0000 L CNN
-F 1 "MountingHole" H 9050 6105 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 8950 6150 50  0001 C CNN
-F 3 "None" H 8950 6150 50  0001 C CNN
-F 4 "M2 mounting hole" H 8950 6150 50  0001 C CNN "Description"
-F 5 "None" H 8950 6150 50  0001 C CNN "Manufacturer Name"
-F 6 "None" H 8950 6150 50  0001 C CNN "Manufacturer Part No."
-F 7 "None" H 8950 6150 50  0001 C CNN "Source 2 Part No."
-F 8 "None" H 8950 6150 50  0001 C CNN "Source Part No."
-	1    8950 6150
+P 8095 6150
+F 0 "H1" H 8195 6196 50  0000 L CNN
+F 1 "MountingHole" H 8195 6105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 8095 6150 50  0001 C CNN
+F 3 "None" H 8095 6150 50  0001 C CNN
+F 4 "M2 mounting hole" H 8095 6150 50  0001 C CNN "Description"
+F 5 "None" H 8095 6150 50  0001 C CNN "Manufacturer Name"
+F 6 "None" H 8095 6150 50  0001 C CNN "Manufacturer Part No."
+F 7 "None" H 8095 6150 50  0001 C CNN "Source 2 Part No."
+F 8 "None" H 8095 6150 50  0001 C CNN "Source Part No."
+F 9 "None" H 8095 6150 50  0001 C CNN "Source"
+F 10 "Mouser" H 8095 6150 50  0001 C CNN "Source 2"
+	1    8095 6150
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H2
 U 1 1 6084B9CC
-P 9700 6150
-F 0 "H2" H 9800 6196 50  0000 L CNN
-F 1 "MountingHole" H 9800 6105 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 9700 6150 50  0001 C CNN
-F 3 "None" H 9700 6150 50  0001 C CNN
-F 4 "M2 mounting hole" H 9700 6150 50  0001 C CNN "Description"
-F 5 "None" H 9700 6150 50  0001 C CNN "Manufacturer Name"
-F 6 "None" H 9700 6150 50  0001 C CNN "Manufacturer Part No."
-F 7 "None" H 9700 6150 50  0001 C CNN "Source 2 Part No."
-F 8 "None" H 9700 6150 50  0001 C CNN "Source Part No."
-	1    9700 6150
+P 8845 6150
+F 0 "H2" H 8945 6196 50  0000 L CNN
+F 1 "MountingHole" H 8945 6105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 8845 6150 50  0001 C CNN
+F 3 "None" H 8845 6150 50  0001 C CNN
+F 4 "M2 mounting hole" H 8845 6150 50  0001 C CNN "Description"
+F 5 "None" H 8845 6150 50  0001 C CNN "Manufacturer Name"
+F 6 "None" H 8845 6150 50  0001 C CNN "Manufacturer Part No."
+F 7 "None" H 8845 6150 50  0001 C CNN "Source 2 Part No."
+F 8 "None" H 8845 6150 50  0001 C CNN "Source Part No."
+F 9 "None" H 8845 6150 50  0001 C CNN "Source"
+F 10 "Mouser" H 8845 6150 50  0001 C CNN "Source 2"
+	1    8845 6150
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H3
 U 1 1 6084C007
-P 8950 6400
-F 0 "H3" H 9050 6446 50  0000 L CNN
-F 1 "MountingHole" H 9050 6355 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 8950 6400 50  0001 C CNN
-F 3 "None" H 8950 6400 50  0001 C CNN
-F 4 "M2 mounting hole" H 8950 6400 50  0001 C CNN "Description"
-F 5 "None" H 8950 6400 50  0001 C CNN "Manufacturer Name"
-F 6 "None" H 8950 6400 50  0001 C CNN "Manufacturer Part No."
-F 7 "None" H 8950 6400 50  0001 C CNN "Source 2 Part No."
-F 8 "None" H 8950 6400 50  0001 C CNN "Source Part No."
-	1    8950 6400
+P 8095 6400
+F 0 "H3" H 8195 6446 50  0000 L CNN
+F 1 "MountingHole" H 8195 6355 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 8095 6400 50  0001 C CNN
+F 3 "None" H 8095 6400 50  0001 C CNN
+F 4 "M2 mounting hole" H 8095 6400 50  0001 C CNN "Description"
+F 5 "None" H 8095 6400 50  0001 C CNN "Manufacturer Name"
+F 6 "None" H 8095 6400 50  0001 C CNN "Manufacturer Part No."
+F 7 "None" H 8095 6400 50  0001 C CNN "Source 2 Part No."
+F 8 "None" H 8095 6400 50  0001 C CNN "Source Part No."
+F 9 "None" H 8095 6400 50  0001 C CNN "Source"
+F 10 "Mouser" H 8095 6400 50  0001 C CNN "Source 2"
+	1    8095 6400
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H4
 U 1 1 6084C489
-P 9700 6400
-F 0 "H4" H 9800 6446 50  0000 L CNN
-F 1 "MountingHole" H 9800 6355 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 9700 6400 50  0001 C CNN
-F 3 "None" H 9700 6400 50  0001 C CNN
-F 4 "M2 mounting hole" H 9700 6400 50  0001 C CNN "Description"
-F 5 "None" H 9700 6400 50  0001 C CNN "Manufacturer Name"
-F 6 "None" H 9700 6400 50  0001 C CNN "Manufacturer Part No."
-F 7 "None" H 9700 6400 50  0001 C CNN "Source 2 Part No."
-F 8 "None" H 9700 6400 50  0001 C CNN "Source Part No."
-	1    9700 6400
+P 8845 6400
+F 0 "H4" H 8945 6446 50  0000 L CNN
+F 1 "MountingHole" H 8945 6355 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 8845 6400 50  0001 C CNN
+F 3 "None" H 8845 6400 50  0001 C CNN
+F 4 "M2 mounting hole" H 8845 6400 50  0001 C CNN "Description"
+F 5 "None" H 8845 6400 50  0001 C CNN "Manufacturer Name"
+F 6 "None" H 8845 6400 50  0001 C CNN "Manufacturer Part No."
+F 7 "None" H 8845 6400 50  0001 C CNN "Source 2 Part No."
+F 8 "None" H 8845 6400 50  0001 C CNN "Source Part No."
+F 9 "None" H 8845 6400 50  0001 C CNN "Source"
+F 10 "Mouser" H 8845 6400 50  0001 C CNN "Source 2"
+	1    8845 6400
 	1    0    0    -1  
 $EndComp
 NoConn ~ 1800 6700
@@ -1468,6 +1458,13 @@ F 0 "Q1" V 9492 1250 50  0000 C CNN
 F 1 "BUK6D30-40E" V 9401 1250 50  0000 C CNN
 F 2 "Li_Ion_LE:BUK6D3040EX" H 9350 1175 50  0001 L CIN
 F 3 "https://www.mouser.com/datasheet/2/916/BUK6D30-40E-1839903.pdf" V 9150 1250 50  0001 L CNN
+F 4 "N-Channel 6A (Ta), 18A (Tc) 2W (Ta), 19W (Tc) Surface Mount DFN2020MD-6" H 9150 1250 50  0001 C CNN "Description"
+F 5 "Nexperia" H 9150 1250 50  0001 C CNN "Manufacturer Name"
+F 6 "BUK6D30-40EX" H 9150 1250 50  0001 C CNN "Manufacturer Part No."
+F 7 "None" H 9150 1250 50  0001 C CNN "Source"
+F 8 "Mouser" H 9150 1250 50  0001 C CNN "Source 2"
+F 9 "771-BUK6D30-40EX" H 9150 1250 50  0001 C CNN "Source 2 Part No."
+F 10 "1727-BUK6D30-40EXCT-ND" H 9150 1250 50  0001 C CNN "Source Part No."
 	1    9150 1250
 	0    -1   -1   0   
 $EndComp
@@ -1558,7 +1555,7 @@ F 2 "Frequently_Used_LE:0603_1608Metric" H 8910 1650 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/348/esr_e-1139161.pdf" H 8910 1650 50  0001 C CNN
 F 4 "330 Ohms ±1% 0.25W, 1/4W Chip Resistor" H 8910 1650 50  0001 C CNN "Description"
 F 5 "-" H 8910 1650 50  0001 C CNN "Source Part No."
-F 6 "ESR03EZPF3300" H 8910 1650 50  0001 C CNN "Manufacturer Part No."
+F 6 "BUK6D30-40EX" H 8910 1650 50  0001 C CNN "Manufacturer Part No."
 F 7 "ROHM Semiconductor" H 8910 1650 50  0001 C CNN "Manufacturer Name"
 F 8 "Digikey" H 8910 1650 50  0001 C CNN "Source"
 F 9 "Mouser" H 8910 1650 50  0001 C CNN "Source 2"
@@ -1575,7 +1572,7 @@ L Li_Ion_LE:D_NTS12120EMFST1G D1
 U 1 1 E0548A51
 P 8125 3350
 F 0 "D1" H 8060 3490 59  0000 L TNN
-F 1 "NTS12120EMFST1G" H 8125 3200 59  0000 C CNN
+F 1 "120V 12A" H 8125 3200 59  0000 C CNN
 F 2 "Li_Ion_LE:NTS12120EMFST1G" H 8125 3350 50  0001 C CNN
 F 3 "https://www.onsemi.com/pub/Collateral/NTS12120EMFS-D.PDF" H 8125 3350 50  0001 C CNN
 F 4 "Diode Schottky 120V 12A " H 8125 3350 50  0001 C CNN "Description"
@@ -1641,5 +1638,63 @@ Wire Wire Line
 Connection ~ 9470 1150
 Wire Wire Line
 	9470 1150 9850 1150
-NoConn ~ 7950 1850
+$Comp
+L Frequently_Used_LE:Logo LG1
+U 1 1 608A64C2
+P 9600 6150
+F 0 "LG1" H 9705 6205 50  0000 L CNN
+F 1 "Logo" H 9685 6105 50  0001 L CNN
+F 2 "Logo_LE:Ikosy-Logo_Type1_10.3x2mm_SilkScreen" H 9600 6150 50  0001 C CNN
+F 3 "None" H 9600 6150 50  0001 C CNN
+F 4 "None" H 9600 6150 50  0001 C CNN "Description"
+F 5 "None" H 9600 6150 50  0001 C CNN "Manufacturer Name"
+F 6 "None" H 9600 6150 50  0001 C CNN "Manufacturer Part No."
+F 7 "None" H 9600 6150 50  0001 C CNN "Source 2 Part No."
+F 8 "None" H 9600 6150 50  0001 C CNN "Source Part No."
+F 9 "None" H 9600 6150 50  0001 C CNN "Source"
+F 10 "None" H 9600 6150 50  0001 C CNN "Source 2"
+F 11 "Ikosy" H 9705 6105 50  0000 L CNN "Name"
+	1    9600 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Frequently_Used_LE:Logo LG3
+U 1 1 608BF799
+P 9600 6375
+F 0 "LG3" H 9705 6430 50  0000 L CNN
+F 1 "Logo" H 9685 6330 50  0001 L CNN
+F 2 "Logo_LE:KiCad-Logo3_3mm_SilkScreen" H 9600 6375 50  0001 C CNN
+F 3 "None" H 9600 6375 50  0001 C CNN
+F 4 "None" H 9600 6375 50  0001 C CNN "Description"
+F 5 "None" H 9600 6375 50  0001 C CNN "Manufacturer Name"
+F 6 "None" H 9600 6375 50  0001 C CNN "Manufacturer Part No."
+F 7 "None" H 9600 6375 50  0001 C CNN "Source 2 Part No."
+F 8 "None" H 9600 6375 50  0001 C CNN "Source Part No."
+F 9 "None" H 9600 6375 50  0001 C CNN "Source"
+F 10 "None" H 9600 6375 50  0001 C CNN "Source 2"
+F 11 "KiCad" H 9705 6330 50  0000 L CNN "Name"
+	1    9600 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Frequently_Used_LE:Logo LG2
+U 1 1 608CA620
+P 10100 6150
+F 0 "LG2" H 10205 6205 50  0000 L CNN
+F 1 "Logo" H 10185 6105 50  0001 L CNN
+F 2 "Logo_LE:OSHW-Symbol_3mm_Silkscreen" H 10100 6150 50  0001 C CNN
+F 3 "None" H 10100 6150 50  0001 C CNN
+F 4 "None" H 10100 6150 50  0001 C CNN "Description"
+F 5 "None" H 10100 6150 50  0001 C CNN "Manufacturer Name"
+F 6 "None" H 10100 6150 50  0001 C CNN "Manufacturer Part No."
+F 7 "None" H 10100 6150 50  0001 C CNN "Source 2 Part No."
+F 8 "None" H 10100 6150 50  0001 C CNN "Source Part No."
+F 9 "None" H 10100 6150 50  0001 C CNN "Source"
+F 10 "None" H 10100 6150 50  0001 C CNN "Source 2"
+F 11 "OSHW" H 10205 6105 50  0000 L CNN "Name"
+	1    10100 6150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5925 3350 6925 3350
 $EndSCHEMATC
