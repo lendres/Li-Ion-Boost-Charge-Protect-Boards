@@ -402,7 +402,7 @@ F 11 "None" H 2245 7100 50  0001 C CNN "Source 2 Part No."
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H1
+L Mechanical_LE:MountingHole H1
 U 1 1 608288AB
 P 2745 6850
 F 0 "H1" H 2845 6896 50  0000 L CNN
@@ -420,7 +420,7 @@ F 10 "Mouser" H 2745 6850 50  0001 C CNN "Source 2"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H2
+L Mechanical_LE:MountingHole H2
 U 1 1 6084B9CC
 P 3495 6850
 F 0 "H2" H 3595 6896 50  0000 L CNN
@@ -438,7 +438,7 @@ F 10 "Mouser" H 3495 6850 50  0001 C CNN "Source 2"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H3
+L Mechanical_LE:MountingHole H3
 U 1 1 6084C007
 P 2745 7100
 F 0 "H3" H 2845 7146 50  0000 L CNN
@@ -456,7 +456,7 @@ F 10 "Mouser" H 2745 7100 50  0001 C CNN "Source 2"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H4
+L Mechanical_LE:MountingHole H4
 U 1 1 6084C489
 P 3495 7100
 F 0 "H4" H 3595 7146 50  0000 L CNN
