@@ -25,9 +25,9 @@ F 4 "N-Channel 6A (Ta), 18A (Tc) 2W (Ta), 19W (Tc) Surface Mount DFN2020MD-6" H 
 F 5 "Nexperia" H 6100 3700 50  0001 C CNN "Manufacturer Name"
 F 6 "BUK6D30-40EX" H 6100 3700 50  0001 C CNN "Manufacturer Part No."
 F 7 "None" H 6100 3700 50  0001 C CNN "Source 1"
-F 8 "Mouser" H 6100 3700 50  0001 C CNN "Source 2"
-F 9 "771-BUK6D30-40EX" H 6100 3700 50  0001 C CNN "Source 2 Part No."
-F 10 "1727-BUK6D30-40EXCT-ND" H 6100 3700 50  0001 C CNN "Source 1 Part No."
+F 8 "1727-BUK6D30-40EXCT-ND" H 6100 3700 50  0001 C CNN "Source 1 Part No."
+F 9 "Mouser" H 6100 3700 50  0001 C CNN "Source 2"
+F 10 "771-BUK6D30-40EX" H 6100 3700 50  0001 C CNN "Source 2 Part No."
 	1    6100 3700
 	0    -1   -1   0   
 $EndComp
@@ -40,10 +40,10 @@ F 1 "10k" H 6470 3800 59  0000 L CNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 6420 3850 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/348/esr_e-1139161.pdf" H 6420 3850 50  0001 C CNN
 F 4 "10 kOhms ±1% 0.25W, 1/4W Chip Resistor" H 6420 3850 50  0001 C CNN "Description"
-F 5 "-" H 6420 3850 50  0001 C CNN "Source 1 Part No."
-F 6 "ESR03EZPF1002" H 6420 3850 50  0001 C CNN "Manufacturer Part No."
-F 7 "ROHM Semiconductor" H 6420 3850 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 6420 3850 50  0001 C CNN "Source 1"
+F 5 "ESR03EZPF1002" H 6420 3850 50  0001 C CNN "Manufacturer Part No."
+F 6 "ROHM Semiconductor" H 6420 3850 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 6420 3850 50  0001 C CNN "Source 1"
+F 8 "-" H 6420 3850 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 6420 3850 50  0001 C CNN "Source 2"
 F 10 "755-ESR03EZPF1002" H 6420 3850 50  0001 C CNN "Source 2 Part No."
 	1    6420 3850
@@ -69,10 +69,10 @@ F 1 "330" V 5960 4000 59  0000 L CNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 5860 4100 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/348/esr_e-1139161.pdf" H 5860 4100 50  0001 C CNN
 F 4 "330 Ohms ±1% 0.25W, 1/4W Chip Resistor" H 5860 4100 50  0001 C CNN "Description"
-F 5 "-" H 5860 4100 50  0001 C CNN "Source 1 Part No."
+F 5 "ROHM Semiconductor" H 5860 4100 50  0001 C CNN "Manufacturer Name"
 F 6 "BUK6D30-40EX" H 5860 4100 50  0001 C CNN "Manufacturer Part No."
-F 7 "ROHM Semiconductor" H 5860 4100 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 5860 4100 50  0001 C CNN "Source 1"
+F 7 "Digikey" H 5860 4100 50  0001 C CNN "Source 1"
+F 8 "-" H 5860 4100 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 5860 4100 50  0001 C CNN "Source 2"
 F 10 "755-ESR03EZPF3300" H 5860 4100 50  0001 C CNN "Source 2 Part No."
 	1    5860 4100
@@ -112,10 +112,10 @@ F 1 "SW_DPST" H 5500 3940 50  0000 R CNN
 F 2 "Button_Switch_LE:CL-SB-22A_Edge" H 5300 4100 50  0001 C CNN
 F 3 "https://www.nidec-copal-electronics.com/e/catalog/switch/cl-sb.pdf" H 5300 4100 50  0001 C CNN
 F 4 "Slide Switch DPDT Surface Mount, Right Angle" H 5300 4100 50  0001 C CNN "Description"
-F 5 "563-1340-1-ND" H 5300 4100 50  0001 C CNN "Source 1 Part No."
+F 5 "Nidec Copal Electronics" H 5300 4100 50  0001 C CNN "Manufacturer Name"
 F 6 "CL-SB-22A-11T" H 5300 4100 50  0001 C CNN "Manufacturer Part No."
-F 7 "Nidec Copal Electronics" H 5300 4100 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 5300 4100 50  0001 C CNN "Source 1"
+F 7 "Digikey" H 5300 4100 50  0001 C CNN "Source 1"
+F 8 "563-1340-1-ND" H 5300 4100 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 5300 4100 50  0001 C CNN "Source 2"
 F 10 "229-CL-SB-22A-11T" H 5300 4100 50  0001 C CNN "Source 2 Part No."
 	1    5300 4100

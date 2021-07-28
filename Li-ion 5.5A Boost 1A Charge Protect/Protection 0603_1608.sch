@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 5
+Sheet 4 5
 Title ""
 Date ""
 Rev ""
@@ -26,10 +26,10 @@ F 1 "AP9101CK6" H 6050 3700 50  0000 L BNN
 F 2 "Li_Ion_LE:SOT-23-6" H 5950 3450 50  0001 C CNN
 F 3 "https://www.diodes.com/assets/Datasheets/AP9101C.pdf" H 5950 3500 50  0001 C CNN
 F 4 "Protection IC" H 5950 3450 50  0001 C CNN "Description"
-F 5 "AP9101CK6-AYTRG1DICT-ND" H 5950 3450 50  0001 C CNN "Source 1 Part No."
-F 6 "AP9101CK6-AYTRG1" H 5950 3450 50  0001 C CNN "Manufacturer Part No."
-F 7 "Diodes Incorporated" H 5950 3450 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 5950 3450 50  0001 C CNN "Source 1"
+F 5 "AP9101CK6-AYTRG1" H 5950 3450 50  0001 C CNN "Manufacturer Part No."
+F 6 "Diodes Incorporated" H 5950 3450 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 5950 3450 50  0001 C CNN "Source 1"
+F 8 "AP9101CK6-AYTRG1DICT-ND" H 5950 3450 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 5950 3450 50  0001 C CNN "Source 2"
 F 10 "621-AP9101CK6-AYTRG1" H 5950 3450 50  0001 C CNN "Source 2 Part No."
 	1    5950 3450
@@ -46,10 +46,10 @@ F 1 "2.7k" V 6700 3550 59  0000 L CNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 6600 3650 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/348/esr_e-1139161.pdf" H 6600 3650 50  0001 C CNN
 F 4 "2.7 kOhms ±1% 0.25W, 1/4W Chip Resistor" H 6600 3650 50  0001 C CNN "Description"
-F 5 "-" H 6600 3650 50  0001 C CNN "Source 1 Part No."
-F 6 "ESR03EZPF2701" H 6600 3650 50  0001 C CNN "Manufacturer Part No."
-F 7 "ROHM Semiconductor" H 6600 3650 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 6600 3650 50  0001 C CNN "Source 1"
+F 5 "ESR03EZPF2701" H 6600 3650 50  0001 C CNN "Manufacturer Part No."
+F 6 "ROHM Semiconductor" H 6600 3650 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 6600 3650 50  0001 C CNN "Source 1"
+F 8 "-" H 6600 3650 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 6600 3650 50  0001 C CNN "Source 2"
 F 10 "755-ESR03EZPF2701" H 6600 3650 50  0001 C CNN "Source 2 Part No."
 	1    6600 3650
@@ -66,10 +66,10 @@ F 1 "ECH8695R-TL-W" H 5550 3750 50  0000 L CNN
 F 2 "Li_Ion_LE:SOT65P280X95-8N" H 6000 3600 50  0001 C CNN
 F 3 "https://www.onsemi.com/pub/Collateral/ECH8695R-D.PDF" H 6200 4250 50  0001 L CNN
 F 4 "Mosfet Array 2 N-Channel (Dual) Common Drain 24V 11A 1.4W" H 5950 4150 50  0001 C CNN "Description"
-F 5 "ECH8695R-TL-WOSCT-ND" H 5950 4150 50  0001 C CNN "Source 1 Part No."
-F 6 "ECH8695R-TL-W" H 5950 4150 50  0001 C CNN "Manufacturer Part No."
-F 7 "ON Semiconductor" H 5950 4150 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 5950 4150 50  0001 C CNN "Source 1"
+F 5 "ECH8695R-TL-W" H 5950 4150 50  0001 C CNN "Manufacturer Part No."
+F 6 "ON Semiconductor" H 5950 4150 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 5950 4150 50  0001 C CNN "Source 1"
+F 8 "ECH8695R-TL-WOSCT-ND" H 5950 4150 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 5950 4150 50  0001 C CNN "Source 2"
 F 10 "863-ECH8695R-TL-W" H 5950 4150 50  0001 C CNN "Source 2 Part No."
 	1    5950 4150
@@ -107,10 +107,10 @@ F 1 "0.1uF" V 5100 3750 50  0000 L CNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 5088 3550 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/585/MLCC-1837944.pdf" H 5050 3700 50  0001 C CNN
 F 4 "0.1µF ±20% 50V Ceramic Capacitor" H 5050 3700 50  0001 C CNN "Description"
-F 5 "-" H 5050 3700 50  0001 C CNN "Source 1 Part No."
-F 6 "CL10B104JB8NNNC" H 5050 3700 50  0001 C CNN "Manufacturer Part No."
-F 7 "Samsung Electro-Mechanics" H 5050 3700 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 5050 3700 50  0001 C CNN "Source 1"
+F 5 "CL10B104JB8NNNC" H 5050 3700 50  0001 C CNN "Manufacturer Part No."
+F 6 "Samsung Electro-Mechanics" H 5050 3700 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 5050 3700 50  0001 C CNN "Source 1"
+F 8 "-" H 5050 3700 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 5050 3700 50  0001 C CNN "Source 2"
 F 10 "187-CL10B104JB8NNNC" H 5050 3700 50  0001 C CNN "Source 2 Part No."
 	1    5050 3700
@@ -144,10 +144,10 @@ F 1 "330" V 4900 3000 59  0000 L CNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 4800 3100 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/348/esr_e-1139161.pdf" H 4800 3100 50  0001 C CNN
 F 4 "330 Ohms ±1% 0.25W, 1/4W Chip Resistor" H 4800 3100 50  0001 C CNN "Description"
-F 5 "-" H 4800 3100 50  0001 C CNN "Source 1 Part No."
-F 6 "BUK6D30-40EX" H 4800 3100 50  0001 C CNN "Manufacturer Part No."
-F 7 "ROHM Semiconductor" H 4800 3100 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 4800 3100 50  0001 C CNN "Source 1"
+F 5 "BUK6D30-40EX" H 4800 3100 50  0001 C CNN "Manufacturer Part No."
+F 6 "ROHM Semiconductor" H 4800 3100 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 4800 3100 50  0001 C CNN "Source 1"
+F 8 "-" H 4800 3100 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 4800 3100 50  0001 C CNN "Source 2"
 F 10 "755-ESR03EZPF3300" H 4800 3100 50  0001 C CNN "Source 2 Part No."
 	1    4800 3100

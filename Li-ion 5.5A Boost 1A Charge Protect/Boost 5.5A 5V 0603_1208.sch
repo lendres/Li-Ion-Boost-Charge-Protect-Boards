@@ -50,10 +50,10 @@ F 1 "10k" V 6500 3800 59  0000 L CNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 6400 3900 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/348/esr_e-1139161.pdf" H 6400 3900 50  0001 C CNN
 F 4 "10 kOhms ±1% 0.25W, 1/4W Chip Resistor" H 6400 3900 50  0001 C CNN "Description"
-F 5 "-" H 6400 3900 50  0001 C CNN "Source 1 Part No."
-F 6 "ESR03EZPF1002" H 6400 3900 50  0001 C CNN "Manufacturer Part No."
-F 7 "ROHM Semiconductor" H 6400 3900 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 6400 3900 50  0001 C CNN "Source 1"
+F 5 "ESR03EZPF1002" H 6400 3900 50  0001 C CNN "Manufacturer Part No."
+F 6 "ROHM Semiconductor" H 6400 3900 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 6400 3900 50  0001 C CNN "Source 1"
+F 8 "-" H 6400 3900 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 6400 3900 50  0001 C CNN "Source 2"
 F 10 "755-ESR03EZPF1002" H 6400 3900 50  0001 C CNN "Source 2 Part No."
 	1    6400 3900
@@ -76,10 +76,10 @@ F 1 "10uF" V 3900 3700 50  0000 L CNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 3888 3500 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/585/MLCC-1837944.pdf" H 3850 3650 50  0001 C CNN
 F 4 "10µF ±10% 10V Ceramic Capacitor X5R" H 3850 3650 50  0001 C CNN "Description"
-F 5 "-" H 3850 3650 50  0001 C CNN "Source 1 Part No."
-F 6 "CL10A106KP8NQSC" H 3850 3650 50  0001 C CNN "Manufacturer Part No."
-F 7 "Samsung Electro-Mechanics" H 3850 3650 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 3850 3650 50  0001 C CNN "Source 1"
+F 5 "CL10A106KP8NQSC" H 3850 3650 50  0001 C CNN "Manufacturer Part No."
+F 6 "Samsung Electro-Mechanics" H 3850 3650 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 3850 3650 50  0001 C CNN "Source 1"
+F 8 "-" H 3850 3650 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 3850 3650 50  0001 C CNN "Source 2"
 F 10 "187-CL10A106KP8NQSC" H 3850 3650 50  0001 C CNN "Source 2 Part No."
 	1    3850 3650
@@ -94,10 +94,10 @@ F 1 "470uF" V 3600 3800 50  0000 L CNN
 F 2 "Li_Ion_LE:CP_Elec_10x10.5" H 3550 3650 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/977/e_TLV-1600870.pdf" H 3550 3650 50  0001 C CNN
 F 4 "470µF 25V Aluminum Electrolytic Capacitors Radial, Can - SMD " H 3550 3650 50  0001 C CNN "Description"
-F 5 "1189-2097-1-ND" H 3550 3650 50  0001 C CNN "Source 1 Part No."
-F 6 "25TLV470M10X10.5" H 3550 3650 50  0001 C CNN "Manufacturer Part No."
-F 7 "Rubycon" H 3550 3650 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 3550 3650 50  0001 C CNN "Source 1"
+F 5 "25TLV470M10X10.5" H 3550 3650 50  0001 C CNN "Manufacturer Part No."
+F 6 "Rubycon" H 3550 3650 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 3550 3650 50  0001 C CNN "Source 1"
+F 8 "1189-2097-1-ND" H 3550 3650 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 3550 3650 50  0001 C CNN "Source 2"
 F 10 "232-25TLV470M10X10.5" H 3550 3650 50  0001 C CNN "Source 2 Part No."
 	1    3550 3650
@@ -116,10 +116,10 @@ F 1 "10uF" V 6800 3700 50  0000 L CNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 6788 3500 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/585/MLCC-1837944.pdf" H 6750 3650 50  0001 C CNN
 F 4 "10µF ±10% 10V Ceramic Capacitor X5R" H 6750 3650 50  0001 C CNN "Description"
-F 5 "-" H 6750 3650 50  0001 C CNN "Source 1 Part No."
-F 6 "CL10A106KP8NQSC" H 6750 3650 50  0001 C CNN "Manufacturer Part No."
-F 7 "Samsung Electro-Mechanics" H 6750 3650 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 6750 3650 50  0001 C CNN "Source 1"
+F 5 "CL10A106KP8NQSC" H 6750 3650 50  0001 C CNN "Manufacturer Part No."
+F 6 "Samsung Electro-Mechanics" H 6750 3650 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 6750 3650 50  0001 C CNN "Source 1"
+F 8 "-" H 6750 3650 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 6750 3650 50  0001 C CNN "Source 2"
 F 10 "187-CL10A106KP8NQSC" H 6750 3650 50  0001 C CNN "Source 2 Part No."
 	1    6750 3650
@@ -134,10 +134,10 @@ F 1 "470uF" V 7100 3800 50  0000 L CNN
 F 2 "Li_Ion_LE:CP_Elec_10x10.5" H 7050 3650 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/977/e_TLV-1600870.pdf" H 7050 3650 50  0001 C CNN
 F 4 "470µF 25V Aluminum Electrolytic Capacitors Radial, Can - SMD " H 7050 3650 50  0001 C CNN "Description"
-F 5 "1189-2097-1-ND" H 7050 3650 50  0001 C CNN "Source 1 Part No."
-F 6 "25TLV470M10X10.5" H 7050 3650 50  0001 C CNN "Manufacturer Part No."
-F 7 "Rubycon" H 7050 3650 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 7050 3650 50  0001 C CNN "Source 1"
+F 5 "25TLV470M10X10.5" H 7050 3650 50  0001 C CNN "Manufacturer Part No."
+F 6 "Rubycon" H 7050 3650 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 7050 3650 50  0001 C CNN "Source 1"
+F 8 "1189-2097-1-ND" H 7050 3650 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 7050 3650 50  0001 C CNN "Source 2"
 F 10 "232-25TLV470M10X10.5" H 7050 3650 50  0001 C CNN "Source 2 Part No."
 	1    7050 3650
@@ -180,10 +180,10 @@ F 1 "51k" V 4550 3600 59  0000 L CNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 4450 3700 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/348/esr_e-1139161.pdf" H 4450 3700 50  0001 C CNN
 F 4 "51 kOhms ±1% 0.25W, 1/4W Chip Resistor" H 4450 3700 50  0001 C CNN "Description"
-F 5 "-" H 4450 3700 50  0001 C CNN "Source 1 Part No."
-F 6 "ESR03EZPF5102" H 4450 3700 50  0001 C CNN "Manufacturer Part No."
-F 7 "ROHM Semiconductor" H 4450 3700 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 4450 3700 50  0001 C CNN "Source 1"
+F 5 "ESR03EZPF5102" H 4450 3700 50  0001 C CNN "Manufacturer Part No."
+F 6 "ROHM Semiconductor" H 4450 3700 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 4450 3700 50  0001 C CNN "Source 1"
+F 8 "-" H 4450 3700 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 4450 3700 50  0001 C CNN "Source 2"
 F 10 "755-ESR03EZPF5102" H 4450 3700 50  0001 C CNN "Source 2 Part No."
 	1    4450 3700
@@ -198,10 +198,10 @@ F 1 "2.2nF" V 4300 3650 50  0000 L CNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 4288 3750 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/585/MLCC-1837944.pdf" H 4250 3900 50  0001 C CNN
 F 4 "2200pF ±10% 50V Ceramic Capacitor X7R" H 4250 3900 50  0001 C CNN "Description"
-F 5 "-" H 4250 3900 50  0001 C CNN "Source 1 Part No."
-F 6 "CL10B222KB8NFNC" H 4250 3900 50  0001 C CNN "Manufacturer Part No."
-F 7 "Samsung Electro-Mechanics" H 4250 3900 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 4250 3900 50  0001 C CNN "Source 1"
+F 5 "CL10B222KB8NFNC" H 4250 3900 50  0001 C CNN "Manufacturer Part No."
+F 6 "Samsung Electro-Mechanics" H 4250 3900 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 4250 3900 50  0001 C CNN "Source 1"
+F 8 "-" H 4250 3900 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 4250 3900 50  0001 C CNN "Source 2"
 F 10 "187-CL10B222KB8NFNC" H 4250 3900 50  0001 C CNN "Source 2 Part No."
 	1    4250 3900
@@ -216,10 +216,10 @@ F 1 "47pF" V 4750 3650 50  0000 L CNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 4738 3750 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/585/MLCC_Automotive-1837966.pdf" H 4700 3900 50  0001 C CNN
 F 4 "47pF ±5% 50V Ceramic Capacitor C0G, NP0" H 4700 3900 50  0001 C CNN "Description"
-F 5 "-" H 4700 3900 50  0001 C CNN "Source 1 Part No."
-F 6 "CL10C470JB81PNC" H 4700 3900 50  0001 C CNN "Manufacturer Part No."
-F 7 "Samsung Electro-Mechanics" H 4700 3900 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 4700 3900 50  0001 C CNN "Source 1"
+F 5 "CL10C470JB81PNC" H 4700 3900 50  0001 C CNN "Manufacturer Part No."
+F 6 "Samsung Electro-Mechanics" H 4700 3900 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 4700 3900 50  0001 C CNN "Source 1"
+F 8 "-" H 4700 3900 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 4700 3900 50  0001 C CNN "Source 2"
 F 10 "187-CL10C470JB81PNC" H 4700 3900 50  0001 C CNN "Source 2 Part No."
 	1    4700 3900
@@ -258,10 +258,10 @@ F 1 "1uF" V 4650 3000 50  0000 L CNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 4638 3150 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/585/MLCC-1837944.pdf" H 4600 3300 50  0001 C CNN
 F 4 "1µF ±10% 25V Ceramic Capacitor X7R" H 4600 3300 50  0001 C CNN "Description"
-F 5 "-" H 4600 3300 50  0001 C CNN "Source 1 Part No."
-F 6 "CL10A105KA8NFNC" H 4600 3300 50  0001 C CNN "Manufacturer Part No."
-F 7 "Samsung Electro-Mechanics" H 4600 3300 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 4600 3300 50  0001 C CNN "Source 1"
+F 5 "CL10A105KA8NFNC" H 4600 3300 50  0001 C CNN "Manufacturer Part No."
+F 6 "Samsung Electro-Mechanics" H 4600 3300 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 4600 3300 50  0001 C CNN "Source 1"
+F 8 "-" H 4600 3300 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 4600 3300 50  0001 C CNN "Source 2"
 F 10 "187-CL10A105KA8NFNC" H 4600 3300 50  0001 C CNN "Source 2 Part No."
 	1    4600 3300
@@ -306,10 +306,10 @@ F 1 "10nF" V 6050 4050 50  0000 L CNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 6038 3850 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/585/MLCC-1837944.pdf" H 6000 4000 50  0001 C CNN
 F 4 "10000pF ±10% 50V Ceramic Capacitor X7R" H 6000 4000 50  0001 C CNN "Description"
-F 5 "-" H 6000 4000 50  0001 C CNN "Source 1 Part No."
-F 6 "CL10B103KB8NNNL" H 6000 4000 50  0001 C CNN "Manufacturer Part No."
-F 7 "Samsung Electro-Mechanics" H 6000 4000 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 6000 4000 50  0001 C CNN "Source 1"
+F 5 "CL10B103KB8NNNL" H 6000 4000 50  0001 C CNN "Manufacturer Part No."
+F 6 "Samsung Electro-Mechanics" H 6000 4000 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 6000 4000 50  0001 C CNN "Source 1"
+F 8 "-" H 6000 4000 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 6000 4000 50  0001 C CNN "Source 2"
 F 10 "187-CL10B103KB8NNNL" H 6000 4000 50  0001 C CNN "Source 2 Part No."
 	1    6000 4000
@@ -326,10 +326,10 @@ F 1 "PAM2423AECADJR" H 5350 3934 50  0000 C CNN
 F 2 "Li_Ion_LE:PAM2423AECADJR" H 5500 3150 50  0001 C CIN
 F 3 "https://media.digikey.com/pdf/Data%20Sheets/Diodes%20PDFs/PAM2421,22,23.pdf" H 5300 3600 50  0001 C CNN
 F 4 "Boost Switching Regulator IC " H 5350 3600 50  0001 C CNN "Description"
-F 5 "PAM2423AECADJRDICT-ND" H 5350 3600 50  0001 C CNN "Source 1 Part No."
-F 6 "PAM2423AECADJR" H 5350 3600 50  0001 C CNN "Manufacturer Part No."
-F 7 "Diodes Incorporated" H 5350 3600 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 5350 3600 50  0001 C CNN "Source 1"
+F 5 "PAM2423AECADJR" H 5350 3600 50  0001 C CNN "Manufacturer Part No."
+F 6 "Diodes Incorporated" H 5350 3600 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 5350 3600 50  0001 C CNN "Source 1"
+F 8 "PAM2423AECADJRDICT-ND" H 5350 3600 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 5350 3600 50  0001 C CNN "Source 2"
 F 10 "621-PAM2423AECADJR" H 5350 3600 50  0001 C CNN "Source 2 Part No."
 	1    5350 3600
@@ -378,10 +378,10 @@ F 1 "6.8uH" V 5200 3000 59  0000 C TNN
 F 2 "Li_Ion_LE:L_MGV1004" H 5300 3000 50  0001 C CNN
 F 3 "https://media.digikey.com/pdf/Data%20Sheets/Steward%20PDFs/MGV1004.pdf" H 5300 3000 50  0001 C CNN
 F 4 "6.8µH Shielded Molded Inductor 8A 23.3mOhm" H 5300 3000 50  0001 C CNN "Description"
-F 5 "240-2938-1-ND" H 5300 3000 50  0001 C CNN "Source 1 Part No."
-F 6 "MGV10046R8M-10" H 5300 3000 50  0001 C CNN "Manufacturer Part No."
-F 7 "Laird-Signal Integrity Products" H 5300 3000 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 5300 3000 50  0001 C CNN "Source 1"
+F 5 "MGV10046R8M-10" H 5300 3000 50  0001 C CNN "Manufacturer Part No."
+F 6 "Laird-Signal Integrity Products" H 5300 3000 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 5300 3000 50  0001 C CNN "Source 1"
+F 8 "240-2938-1-ND" H 5300 3000 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 5300 3000 50  0001 C CNN "Source 2"
 F 10 "875-MGV10046R8M-10" H 5300 3000 50  0001 C CNN "Source 2 Part No."
 	1    5300 3000
@@ -396,10 +396,10 @@ F 1 "30k" V 6500 3200 59  0000 L CNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 6400 3300 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/348/esr_e-1139161.pdf" H 6400 3300 50  0001 C CNN
 F 4 "30 kOhms ±1% 0.25W, 1/4W Chip Resistor" H 6400 3300 50  0001 C CNN "Description"
-F 5 "-" H 6400 3300 50  0001 C CNN "Source 1 Part No."
-F 6 "ESR03EZPF3002" H 6400 3300 50  0001 C CNN "Manufacturer Part No."
-F 7 "ROHM Semiconductor" H 6400 3300 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 6400 3300 50  0001 C CNN "Source 1"
+F 5 "ESR03EZPF3002" H 6400 3300 50  0001 C CNN "Manufacturer Part No."
+F 6 "ROHM Semiconductor" H 6400 3300 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 6400 3300 50  0001 C CNN "Source 1"
+F 8 "-" H 6400 3300 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 6400 3300 50  0001 C CNN "Source 2"
 F 10 "755-ESR03EZPF3002" H 6400 3300 50  0001 C CNN "Source 2 Part No."
 	1    6400 3300
@@ -418,10 +418,10 @@ F 1 "RED" H 7300 3750 59  0000 L BNN
 F 2 "Frequently_Used_LE:LED_0805_2012Metric" H 7400 3900 50  0001 C CNN
 F 3 "https://www.we-online.de/katalog/datasheet/150080RS75000.pdf" H 7400 3900 50  0001 C CNN
 F 4 "Red 625nm LED Indication - Discrete 2V" H 7400 3900 50  0001 C CNN "Description"
-F 5 "732-4984-1-ND" H 7400 3900 50  0001 C CNN "Source 1 Part No."
-F 6 "150080RS75000" H 7400 3900 50  0001 C CNN "Manufacturer Part No."
-F 7 "Würth Elektronik" H 7400 3900 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 7400 3900 50  0001 C CNN "Source 1"
+F 5 "150080RS75000" H 7400 3900 50  0001 C CNN "Manufacturer Part No."
+F 6 "Würth Elektronik" H 7400 3900 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 7400 3900 50  0001 C CNN "Source 1"
+F 8 "732-4984-1-ND" H 7400 3900 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 7400 3900 50  0001 C CNN "Source 2"
 F 10 "710-150080RS75000" H 7400 3900 50  0001 C CNN "Source 2 Part No."
 	1    7400 3900
@@ -445,10 +445,10 @@ F 1 "120V 12A" H 6050 2850 59  0000 C CNN
 F 2 "Li_Ion_LE:NTS12120EMFST1G" H 6050 3000 50  0001 C CNN
 F 3 "https://www.onsemi.com/pub/Collateral/NTS12120EMFS-D.PDF" H 6050 3000 50  0001 C CNN
 F 4 "Diode Schottky 120V 12A " H 6050 3000 50  0001 C CNN "Description"
-F 5 "NTS12120EMFST1GOSCT-ND" H 6050 3000 50  0001 C CNN "Source 1 Part No."
-F 6 "NTS12120EMFST1G" H 6050 3000 50  0001 C CNN "Manufacturer Part No."
-F 7 "ON Semiconductor" H 6050 3000 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 6050 3000 50  0001 C CNN "Source 1"
+F 5 "NTS12120EMFST1G" H 6050 3000 50  0001 C CNN "Manufacturer Part No."
+F 6 "ON Semiconductor" H 6050 3000 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 6050 3000 50  0001 C CNN "Source 1"
+F 8 "NTS12120EMFST1GOSCT-ND" H 6050 3000 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 6050 3000 50  0001 C CNN "Source 2"
 F 10 "863-NTS12120EMFST1G" H 6050 3000 50  0001 C CNN "Source 2 Part No."
 	1    6050 3000

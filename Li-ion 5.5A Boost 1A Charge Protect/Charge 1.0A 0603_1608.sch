@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 3 5
+Sheet 2 5
 Title ""
 Date ""
 Rev ""
@@ -24,10 +24,10 @@ F 1 "MCP73833T" H 5925 3781 60  0000 C CNN
 F 2 "Li_Ion_LE:MCP73833" H 5950 2800 60  0001 C CNN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/22005b.pdf" H 5925 3781 60  0001 C CNN
 F 4 "Charger IC" H 5950 3400 50  0001 C CNN "Description"
-F 5 "MCP73833T-AMI/UNCT-ND" H 5950 3400 50  0001 C CNN "Source 1 Part No."
-F 6 "MCP73833T-AMI/UN" H 5950 3400 50  0001 C CNN "Manufacturer Part No."
-F 7 "Microchip Technology" H 5950 3400 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 5950 3400 50  0001 C CNN "Source 1"
+F 5 "MCP73833T-AMI/UN" H 5950 3400 50  0001 C CNN "Manufacturer Part No."
+F 6 "Microchip Technology" H 5950 3400 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 5950 3400 50  0001 C CNN "Source 1"
+F 8 "MCP73833T-AMI/UNCT-ND" H 5950 3400 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 5950 3400 50  0001 C CNN "Source 2"
 F 10 "579-MCP73833T-AMI/UN" H 5950 3400 50  0001 C CNN "Source 2 Part No."
 	1    5950 3400
@@ -44,10 +44,10 @@ F 1 "GREEN" H 3550 3250 50  0000 L CNN
 F 2 "Frequently_Used_LE:LED_0805_2012Metric" H 3650 3350 50  0001 C CNN
 F 3 "https://www.we-online.de/katalog/datasheet/150080VS75000.pdf" H 3650 3350 50  0001 C CNN
 F 4 "Green 570nm LED Indication - Discrete 2V" H 3650 3350 50  0001 C CNN "Description"
-F 5 "732-4986-1-ND" H 3650 3350 50  0001 C CNN "Source 1 Part No."
-F 6 "150080VS75000" H 3650 3350 50  0001 C CNN "Manufacturer Part No."
-F 7 "Würth Elektronik" H 3650 3350 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 3650 3350 50  0001 C CNN "Source 1"
+F 5 "150080VS75000" H 3650 3350 50  0001 C CNN "Manufacturer Part No."
+F 6 "Würth Elektronik" H 3650 3350 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 3650 3350 50  0001 C CNN "Source 1"
+F 8 "732-4986-1-ND" H 3650 3350 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 3650 3350 50  0001 C CNN "Source 2"
 F 10 "710-150080VS75000" H 3650 3350 50  0001 C CNN "Source 2 Part No."
 	1    3650 3350
@@ -62,10 +62,10 @@ F 1 "GREEN" H 3900 3250 50  0000 L CNN
 F 2 "Frequently_Used_LE:LED_0805_2012Metric" H 4000 3350 50  0001 C CNN
 F 3 "https://www.we-online.de/katalog/datasheet/150080VS75000.pdf" H 4000 3350 50  0001 C CNN
 F 4 "Green 570nm LED Indication - Discrete 2V" H 4000 3350 50  0001 C CNN "Description"
-F 5 "732-4986-1-ND" H 4000 3350 50  0001 C CNN "Source 1 Part No."
-F 6 "150080VS75000" H 4000 3350 50  0001 C CNN "Manufacturer Part No."
-F 7 "Würth Elektronik" H 4000 3350 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 4000 3350 50  0001 C CNN "Source 1"
+F 5 "150080VS75000" H 4000 3350 50  0001 C CNN "Manufacturer Part No."
+F 6 "Würth Elektronik" H 4000 3350 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 4000 3350 50  0001 C CNN "Source 1"
+F 8 "732-4986-1-ND" H 4000 3350 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 4000 3350 50  0001 C CNN "Source 2"
 F 10 "710-150080VS75000" H 4000 3350 50  0001 C CNN "Source 2 Part No."
 	1    4000 3350
@@ -80,10 +80,10 @@ F 1 "RED" H 4250 3250 50  0000 L CNN
 F 2 "Frequently_Used_LE:LED_0805_2012Metric" H 4350 3350 50  0001 C CNN
 F 3 "https://www.we-online.de/katalog/datasheet/150080RS75000.pdf" H 4350 3350 50  0001 C CNN
 F 4 "Red 625nm LED Indication - Discrete 2V" H 4350 3350 50  0001 C CNN "Description"
-F 5 "732-4984-1-ND" H 4350 3350 50  0001 C CNN "Source 1 Part No."
-F 6 "150080RS75000" H 4350 3350 50  0001 C CNN "Manufacturer Part No."
-F 7 "Würth Elektronik" H 4350 3350 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 4350 3350 50  0001 C CNN "Source 1"
+F 5 "150080RS75000" H 4350 3350 50  0001 C CNN "Manufacturer Part No."
+F 6 "Würth Elektronik" H 4350 3350 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 4350 3350 50  0001 C CNN "Source 1"
+F 8 "732-4984-1-ND" H 4350 3350 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 4350 3350 50  0001 C CNN "Source 2"
 F 10 "710-150080RS75000" H 4350 3350 50  0001 C CNN "Source 2 Part No."
 	1    4350 3350
@@ -98,10 +98,10 @@ F 1 "1k" V 5100 3400 59  0000 L CNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 5000 3500 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/348/esr_e-1139161.pdf" H 5000 3500 50  0001 C CNN
 F 4 "1 kOhms ±1% 0.25W, 1/4W Chip Resistor" H 5000 3500 50  0001 C CNN "Description"
-F 5 "-" H 5000 3500 50  0001 C CNN "Source 1 Part No."
-F 6 "ESR03EZPF1001" H 5000 3500 50  0001 C CNN "Manufacturer Part No."
-F 7 "ROHM Semiconductor" H 5000 3500 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 5000 3500 50  0001 C CNN "Source 1"
+F 5 "ESR03EZPF1001" H 5000 3500 50  0001 C CNN "Manufacturer Part No."
+F 6 "ROHM Semiconductor" H 5000 3500 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 5000 3500 50  0001 C CNN "Source 1"
+F 8 "-" H 5000 3500 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 5000 3500 50  0001 C CNN "Source 2"
 F 10 "755-ESR03EZPF1001" H 5000 3500 50  0001 C CNN "Source 2 Part No."
 	1    5000 3500
@@ -124,10 +124,10 @@ F 1 "1k" V 4750 3550 59  0000 L CNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 4650 3650 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/348/esr_e-1139161.pdf" H 4650 3650 50  0001 C CNN
 F 4 "1 kOhms ±1% 0.25W, 1/4W Chip Resistor" H 4650 3650 50  0001 C CNN "Description"
-F 5 "-" H 4650 3650 50  0001 C CNN "Source 1 Part No."
-F 6 "ESR03EZPF1001" H 4650 3650 50  0001 C CNN "Manufacturer Part No."
-F 7 "ROHM Semiconductor" H 4650 3650 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 4650 3650 50  0001 C CNN "Source 1"
+F 5 "ESR03EZPF1001" H 4650 3650 50  0001 C CNN "Manufacturer Part No."
+F 6 "ROHM Semiconductor" H 4650 3650 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 4650 3650 50  0001 C CNN "Source 1"
+F 8 "-" H 4650 3650 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 4650 3650 50  0001 C CNN "Source 2"
 F 10 "755-ESR03EZPF1001" H 4650 3650 50  0001 C CNN "Source 2 Part No."
 	1    4650 3650
@@ -142,10 +142,10 @@ F 1 "1k" V 4400 3700 59  0000 L CNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 4300 3800 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/348/esr_e-1139161.pdf" H 4300 3800 50  0001 C CNN
 F 4 "1 kOhms ±1% 0.25W, 1/4W Chip Resistor" H 4300 3800 50  0001 C CNN "Description"
-F 5 "-" H 4300 3800 50  0001 C CNN "Source 1 Part No."
-F 6 "ESR03EZPF1001" H 4300 3800 50  0001 C CNN "Manufacturer Part No."
-F 7 "ROHM Semiconductor" H 4300 3800 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 4300 3800 50  0001 C CNN "Source 1"
+F 5 "ESR03EZPF1001" H 4300 3800 50  0001 C CNN "Manufacturer Part No."
+F 6 "ROHM Semiconductor" H 4300 3800 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 4300 3800 50  0001 C CNN "Source 1"
+F 8 "-" H 4300 3800 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 4300 3800 50  0001 C CNN "Source 2"
 F 10 "755-ESR03EZPF1001" H 4300 3800 50  0001 C CNN "Source 2 Part No."
 	1    4300 3800
@@ -198,10 +198,10 @@ F 1 "1.54k" V 7100 3400 59  0000 L CNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 7000 3500 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/348/esr_e-1139161.pdf" H 7000 3500 50  0001 C CNN
 F 4 "1.5 kOhms ±1% 0.25W, 1/4W Chip Resistor" H 7000 3500 50  0001 C CNN "Description"
-F 5 "-" H 7000 3500 50  0001 C CNN "Source 1 Part No."
-F 6 "ESR03EZPF1501" H 7000 3500 50  0001 C CNN "Manufacturer Part No."
-F 7 "ROHM Semiconductor" H 7000 3500 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 7000 3500 50  0001 C CNN "Source 1"
+F 5 "ESR03EZPF1501" H 7000 3500 50  0001 C CNN "Manufacturer Part No."
+F 6 "ROHM Semiconductor" H 7000 3500 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 7000 3500 50  0001 C CNN "Source 1"
+F 8 "-" H 7000 3500 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 7000 3500 50  0001 C CNN "Source 2"
 F 10 "755-ESR03EZPF1501" H 7000 3500 50  0001 C CNN "Source 2 Part No."
 	1    7000 3500
@@ -222,10 +222,10 @@ F 1 "22uF" V 8150 3675 50  0000 L CNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 8138 3475 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/585/MLCC-1837944.pdf" H 8100 3625 50  0001 C CNN
 F 4 "22µF ±20% 6.3V Ceramic Capacitor X5R" H 8100 3625 50  0001 C CNN "Description"
-F 5 "-" H 8100 3625 50  0001 C CNN "Source 1 Part No."
-F 6 "CL10A226MQ8NRNE" H 8100 3625 50  0001 C CNN "Manufacturer Part No."
-F 7 "Samsung Electro-Mechanics" H 8100 3625 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 8100 3625 50  0001 C CNN "Source 1"
+F 5 "CL10A226MQ8NRNE" H 8100 3625 50  0001 C CNN "Manufacturer Part No."
+F 6 "Samsung Electro-Mechanics" H 8100 3625 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 8100 3625 50  0001 C CNN "Source 1"
+F 8 "-" H 8100 3625 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 8100 3625 50  0001 C CNN "Source 2"
 F 10 "187-CL10A226MQ8NRNE" H 8100 3625 50  0001 C CNN "Source 2 Part No."
 	1    8100 3625
@@ -240,10 +240,10 @@ F 1 "22uF" V 3300 3675 50  0000 L CNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 3288 3475 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/585/MLCC-1837944.pdf" H 3250 3625 50  0001 C CNN
 F 4 "22µF ±20% 6.3V Ceramic Capacitor X5R" H 3250 3625 50  0001 C CNN "Description"
-F 5 "-" H 3250 3625 50  0001 C CNN "Source 1 Part No."
-F 6 "CL10A226MQ8NRNE" H 3250 3625 50  0001 C CNN "Manufacturer Part No."
-F 7 "Samsung Electro-Mechanics" H 3250 3625 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 3250 3625 50  0001 C CNN "Source 1"
+F 5 "CL10A226MQ8NRNE" H 3250 3625 50  0001 C CNN "Manufacturer Part No."
+F 6 "Samsung Electro-Mechanics" H 3250 3625 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 3250 3625 50  0001 C CNN "Source 1"
+F 8 "-" H 3250 3625 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 3250 3625 50  0001 C CNN "Source 2"
 F 10 "187-CL10A226MQ8NRNE" H 3250 3625 50  0001 C CNN "Source 2 Part No."
 	1    3250 3625
@@ -281,10 +281,10 @@ F 1 "10k" V 7850 3750 50  0000 L BNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 7700 3900 50  0001 C CNN
 F 3 "https://product.tdk.com/en/catalog/datasheets/503021/tpd_commercial_ntc-thermistor_ntcg_en.pdf" H 7700 3900 50  0001 C CNN
 F 4 "NTC Thermistor 10k" H 7700 3850 50  0001 C CNN "Description"
-F 5 "-" H 7700 3850 50  0001 C CNN "Source 1 Part No."
-F 6 "NTCG163JH103JT" H 7700 3850 50  0001 C CNN "Manufacturer Part No."
-F 7 "TDK Corporation" H 7700 3850 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 7700 3850 50  0001 C CNN "Source 1"
+F 5 "NTCG163JH103JT" H 7700 3850 50  0001 C CNN "Manufacturer Part No."
+F 6 "TDK Corporation" H 7700 3850 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 7700 3850 50  0001 C CNN "Source 1"
+F 8 "-" H 7700 3850 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 7700 3850 50  0001 C CNN "Source 2"
 F 10 "810-NTCG163JH103JT" H 7700 3850 50  0001 C CNN "Source 2 Part No."
 	1    7700 3850
@@ -299,10 +299,10 @@ F 1 "1k" V 6900 3750 59  0000 L CNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 6800 3850 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/348/esr_e-1139161.pdf" H 6800 3850 50  0001 C CNN
 F 4 "1 kOhms ±1% 0.25W, 1/4W Chip Resistor" H 6800 3850 50  0001 C CNN "Description"
-F 5 "-" H 6800 3850 50  0001 C CNN "Source 1 Part No."
-F 6 "ESR03EZPF1001" H 6800 3850 50  0001 C CNN "Manufacturer Part No."
-F 7 "ROHM Semiconductor" H 6800 3850 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 6800 3850 50  0001 C CNN "Source 1"
+F 5 "ESR03EZPF1001" H 6800 3850 50  0001 C CNN "Manufacturer Part No."
+F 6 "ROHM Semiconductor" H 6800 3850 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 6800 3850 50  0001 C CNN "Source 1"
+F 8 "-" H 6800 3850 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 6800 3850 50  0001 C CNN "Source 2"
 F 10 "755-ESR03EZPF1001" H 6800 3850 50  0001 C CNN "Source 2 Part No."
 	1    6800 3850
@@ -317,10 +317,10 @@ F 1 "69.8k" V 7350 3750 59  0000 L CNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 7250 3850 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/348/esr_e-1139161.pdf" H 7250 3850 50  0001 C CNN
 F 4 "68 kOhms ±1% 0.25W, 1/4W Chip Resistor" H 7250 3850 50  0001 C CNN "Description"
-F 5 "-" H 7250 3850 50  0001 C CNN "Source 1 Part No."
-F 6 "ESR03EZPF6802" H 7250 3850 50  0001 C CNN "Manufacturer Part No."
-F 7 "ROHM Semiconductor" H 7250 3850 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 7250 3850 50  0001 C CNN "Source 1"
+F 5 "ESR03EZPF6802" H 7250 3850 50  0001 C CNN "Manufacturer Part No."
+F 6 "ROHM Semiconductor" H 7250 3850 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 7250 3850 50  0001 C CNN "Source 1"
+F 8 "-" H 7250 3850 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 7250 3850 50  0001 C CNN "Source 2"
 F 10 "755-ESR03EZPF6802" H 7250 3850 50  0001 C CNN "Source 2 Part No."
 	1    7250 3850

@@ -30,10 +30,10 @@ F 1 "USB_C_FEMALE" H 7050 4725 70  0000 L CNN
 F 2 "Connector_LE:GCT_USB4110-GF-A" H 7400 3650 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/837/USB4110-1948945.pdf" H 7400 3650 50  0001 C CNN
 F 4 "USB-C Power Female SMD Connector" H 7400 3650 50  0001 C CNN "Description"
-F 5 "2073-USB4110-GF-A-1-ND" H 7400 3650 50  0001 C CNN "Source 1 Part No."
-F 6 "USB4110-GF-A" H 7400 3650 50  0001 C CNN "Manufacturer Part No."
-F 7 "GCT" H 7400 3650 50  0001 C CNN "Manufacturer Name"
-F 8 "Digikey" H 7400 3650 50  0001 C CNN "Source 1"
+F 5 "USB4110-GF-A" H 7400 3650 50  0001 C CNN "Manufacturer Part No."
+F 6 "GCT" H 7400 3650 50  0001 C CNN "Manufacturer Name"
+F 7 "Digikey" H 7400 3650 50  0001 C CNN "Source 1"
+F 8 "2073-USB4110-GF-A-1-ND" H 7400 3650 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 7400 3650 50  0001 C CNN "Source 2"
 F 10 "640-USB4110-GF-A" H 7400 3650 50  0001 C CNN "Source 2 Part No."
 	1    7400 3650
@@ -132,10 +132,10 @@ F 1 "2.0x3.25" V 9150 3000 59  0000 R CNN
 F 2 "Li_Ion_LE:Pad_2.0-3.25_w_TH" H 9250 2800 50  0001 C CNN
 F 3 "None" H 9250 2800 50  0001 C CNN
 F 4 "Wire solder point" H 9250 2800 50  0001 C CNN "Description"
-F 5 "None" H 9250 2800 50  0001 C CNN "Source 1 Part No."
-F 6 "None" H 9250 2800 50  0001 C CNN "Manufacturer Part No."
-F 7 "None" H 9250 2800 50  0001 C CNN "Manufacturer Name"
-F 8 "None" H 9250 2800 50  0001 C CNN "Source 1"
+F 5 "None" H 9250 2800 50  0001 C CNN "Manufacturer Part No."
+F 6 "None" H 9250 2800 50  0001 C CNN "Manufacturer Name"
+F 7 "None" H 9250 2800 50  0001 C CNN "Source 1"
+F 8 "None" H 9250 2800 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 9250 2800 50  0001 C CNN "Source 2"
 F 10 "None" H 9250 2800 50  0001 C CNN "Source 2 Part No."
 	1    9250 2800
@@ -150,10 +150,10 @@ F 1 "2.0x3.25" V 9150 3350 59  0000 R CNN
 F 2 "Li_Ion_LE:Pad_2.0-3.25_w_TH" H 9250 3150 50  0001 C CNN
 F 3 "None" H 9250 3150 50  0001 C CNN
 F 4 "Wire solder point" H 9250 3150 50  0001 C CNN "Description"
-F 5 "None" H 9250 3150 50  0001 C CNN "Source 1 Part No."
-F 6 "None" H 9250 3150 50  0001 C CNN "Manufacturer Part No."
-F 7 "None" H 9250 3150 50  0001 C CNN "Manufacturer Name"
-F 8 "None" H 9250 3150 50  0001 C CNN "Source 1"
+F 5 "None" H 9250 3150 50  0001 C CNN "Manufacturer Part No."
+F 6 "None" H 9250 3150 50  0001 C CNN "Manufacturer Name"
+F 7 "None" H 9250 3150 50  0001 C CNN "Source 1"
+F 8 "None" H 9250 3150 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 9250 3150 50  0001 C CNN "Source 2"
 F 10 "None" H 9250 3150 50  0001 C CNN "Source 2 Part No."
 	1    9250 3150
@@ -168,10 +168,10 @@ F 1 "2.0x3.25" V 9150 4350 59  0000 R CNN
 F 2 "Li_Ion_LE:Pad_2.0-3.25_w_TH" H 9250 4150 50  0001 C CNN
 F 3 "None" H 9250 4150 50  0001 C CNN
 F 4 "Wire solder point" H 9250 4150 50  0001 C CNN "Description"
-F 5 "None" H 9250 4150 50  0001 C CNN "Source 1 Part No."
-F 6 "None" H 9250 4150 50  0001 C CNN "Manufacturer Part No."
-F 7 "None" H 9250 4150 50  0001 C CNN "Manufacturer Name"
-F 8 "None" H 9250 4150 50  0001 C CNN "Source 1"
+F 5 "None" H 9250 4150 50  0001 C CNN "Manufacturer Part No."
+F 6 "None" H 9250 4150 50  0001 C CNN "Manufacturer Name"
+F 7 "None" H 9250 4150 50  0001 C CNN "Source 1"
+F 8 "None" H 9250 4150 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 9250 4150 50  0001 C CNN "Source 2"
 F 10 "None" H 9250 4150 50  0001 C CNN "Source 2 Part No."
 	1    9250 4150
@@ -186,10 +186,10 @@ F 1 "2.0x3.25" V 9150 4700 59  0000 R CNN
 F 2 "Li_Ion_LE:Pad_2.0-3.25_w_TH" H 9250 4500 50  0001 C CNN
 F 3 "None" H 9250 4500 50  0001 C CNN
 F 4 "Wire solder point" H 9250 4500 50  0001 C CNN "Description"
-F 5 "None" H 9250 4500 50  0001 C CNN "Source 1 Part No."
-F 6 "None" H 9250 4500 50  0001 C CNN "Manufacturer Part No."
-F 7 "None" H 9250 4500 50  0001 C CNN "Manufacturer Name"
-F 8 "None" H 9250 4500 50  0001 C CNN "Source 1"
+F 5 "None" H 9250 4500 50  0001 C CNN "Manufacturer Part No."
+F 6 "None" H 9250 4500 50  0001 C CNN "Manufacturer Name"
+F 7 "None" H 9250 4500 50  0001 C CNN "Source 1"
+F 8 "None" H 9250 4500 50  0001 C CNN "Source 1 Part No."
 F 9 "Mouser" H 9250 4500 50  0001 C CNN "Source 2"
 F 10 "None" H 9250 4500 50  0001 C CNN "Source 2 Part No."
 	1    9250 4500
@@ -412,10 +412,10 @@ F 3 "None" H 2745 6850 50  0001 C CNN
 F 4 "M2 mounting hole" H 2745 6850 50  0001 C CNN "Description"
 F 5 "None" H 2745 6850 50  0001 C CNN "Manufacturer Name"
 F 6 "None" H 2745 6850 50  0001 C CNN "Manufacturer Part No."
-F 7 "None" H 2745 6850 50  0001 C CNN "Source 2 Part No."
+F 7 "None" H 2745 6850 50  0001 C CNN "Source 1"
 F 8 "None" H 2745 6850 50  0001 C CNN "Source 1 Part No."
-F 9 "None" H 2745 6850 50  0001 C CNN "Source 1"
-F 10 "Mouser" H 2745 6850 50  0001 C CNN "Source 2"
+F 9 "Mouser" H 2745 6850 50  0001 C CNN "Source 2"
+F 10 "None" H 2745 6850 50  0001 C CNN "Source 2 Part No."
 	1    2745 6850
 	1    0    0    -1  
 $EndComp
@@ -430,10 +430,10 @@ F 3 "None" H 3495 6850 50  0001 C CNN
 F 4 "M2 mounting hole" H 3495 6850 50  0001 C CNN "Description"
 F 5 "None" H 3495 6850 50  0001 C CNN "Manufacturer Name"
 F 6 "None" H 3495 6850 50  0001 C CNN "Manufacturer Part No."
-F 7 "None" H 3495 6850 50  0001 C CNN "Source 2 Part No."
+F 7 "None" H 3495 6850 50  0001 C CNN "Source 1"
 F 8 "None" H 3495 6850 50  0001 C CNN "Source 1 Part No."
-F 9 "None" H 3495 6850 50  0001 C CNN "Source 1"
-F 10 "Mouser" H 3495 6850 50  0001 C CNN "Source 2"
+F 9 "Mouser" H 3495 6850 50  0001 C CNN "Source 2"
+F 10 "None" H 3495 6850 50  0001 C CNN "Source 2 Part No."
 	1    3495 6850
 	1    0    0    -1  
 $EndComp
@@ -448,10 +448,10 @@ F 3 "None" H 2745 7100 50  0001 C CNN
 F 4 "M2 mounting hole" H 2745 7100 50  0001 C CNN "Description"
 F 5 "None" H 2745 7100 50  0001 C CNN "Manufacturer Name"
 F 6 "None" H 2745 7100 50  0001 C CNN "Manufacturer Part No."
-F 7 "None" H 2745 7100 50  0001 C CNN "Source 2 Part No."
+F 7 "None" H 2745 7100 50  0001 C CNN "Source 1"
 F 8 "None" H 2745 7100 50  0001 C CNN "Source 1 Part No."
-F 9 "None" H 2745 7100 50  0001 C CNN "Source 1"
-F 10 "Mouser" H 2745 7100 50  0001 C CNN "Source 2"
+F 9 "Mouser" H 2745 7100 50  0001 C CNN "Source 2"
+F 10 "None" H 2745 7100 50  0001 C CNN "Source 2 Part No."
 	1    2745 7100
 	1    0    0    -1  
 $EndComp
@@ -489,14 +489,14 @@ F 0 "LG1" H 4355 6905 50  0000 L CNN
 F 1 "Logo" H 4335 6805 50  0001 L CNN
 F 2 "Logo_LE:Ikosy-Logo_Type1_10.3x2mm_SilkScreen" H 4250 6850 50  0001 C CNN
 F 3 "None" H 4250 6850 50  0001 C CNN
-F 4 "None" H 4250 6850 50  0001 C CNN "Description"
-F 5 "None" H 4250 6850 50  0001 C CNN "Manufacturer Name"
-F 6 "None" H 4250 6850 50  0001 C CNN "Manufacturer Part No."
-F 7 "None" H 4250 6850 50  0001 C CNN "Source 2 Part No."
-F 8 "None" H 4250 6850 50  0001 C CNN "Source 1 Part No."
-F 9 "None" H 4250 6850 50  0001 C CNN "Source 1"
+F 4 "Ikosy" H 4355 6805 50  0000 L CNN "Name"
+F 5 "None" H 4250 6850 50  0001 C CNN "Description"
+F 6 "None" H 4250 6850 50  0001 C CNN "Manufacturer Name"
+F 7 "None" H 4250 6850 50  0001 C CNN "Manufacturer Part No."
+F 8 "None" H 4250 6850 50  0001 C CNN "Source 1"
+F 9 "None" H 4250 6850 50  0001 C CNN "Source 1 Part No."
 F 10 "None" H 4250 6850 50  0001 C CNN "Source 2"
-F 11 "Ikosy" H 4355 6805 50  0000 L CNN "Name"
+F 11 "None" H 4250 6850 50  0001 C CNN "Source 2 Part No."
 	1    4250 6850
 	1    0    0    -1  
 $EndComp
@@ -508,14 +508,14 @@ F 0 "LG3" H 4355 7130 50  0000 L CNN
 F 1 "Logo" H 4335 7030 50  0001 L CNN
 F 2 "Logo_LE:KiCad-Logo3_3mm_SilkScreen" H 4250 7075 50  0001 C CNN
 F 3 "None" H 4250 7075 50  0001 C CNN
-F 4 "None" H 4250 7075 50  0001 C CNN "Description"
-F 5 "None" H 4250 7075 50  0001 C CNN "Manufacturer Name"
-F 6 "None" H 4250 7075 50  0001 C CNN "Manufacturer Part No."
-F 7 "None" H 4250 7075 50  0001 C CNN "Source 2 Part No."
-F 8 "None" H 4250 7075 50  0001 C CNN "Source 1 Part No."
-F 9 "None" H 4250 7075 50  0001 C CNN "Source 1"
+F 4 "KiCad" H 4355 7030 50  0000 L CNN "Name"
+F 5 "None" H 4250 7075 50  0001 C CNN "Description"
+F 6 "None" H 4250 7075 50  0001 C CNN "Manufacturer Name"
+F 7 "None" H 4250 7075 50  0001 C CNN "Manufacturer Part No."
+F 8 "None" H 4250 7075 50  0001 C CNN "Source 1"
+F 9 "None" H 4250 7075 50  0001 C CNN "Source 1 Part No."
 F 10 "None" H 4250 7075 50  0001 C CNN "Source 2"
-F 11 "KiCad" H 4355 7030 50  0000 L CNN "Name"
+F 11 "None" H 4250 7075 50  0001 C CNN "Source 2 Part No."
 	1    4250 7075
 	1    0    0    -1  
 $EndComp
@@ -527,14 +527,14 @@ F 0 "LG2" H 4855 6905 50  0000 L CNN
 F 1 "Logo" H 4835 6805 50  0001 L CNN
 F 2 "Logo_LE:OSHW-Symbol_3mm_Silkscreen" H 4750 6850 50  0001 C CNN
 F 3 "None" H 4750 6850 50  0001 C CNN
-F 4 "None" H 4750 6850 50  0001 C CNN "Description"
-F 5 "None" H 4750 6850 50  0001 C CNN "Manufacturer Name"
-F 6 "None" H 4750 6850 50  0001 C CNN "Manufacturer Part No."
-F 7 "None" H 4750 6850 50  0001 C CNN "Source 2 Part No."
-F 8 "None" H 4750 6850 50  0001 C CNN "Source 1 Part No."
-F 9 "None" H 4750 6850 50  0001 C CNN "Source 1"
+F 4 "OSHW" H 4855 6805 50  0000 L CNN "Name"
+F 5 "None" H 4750 6850 50  0001 C CNN "Description"
+F 6 "None" H 4750 6850 50  0001 C CNN "Manufacturer Name"
+F 7 "None" H 4750 6850 50  0001 C CNN "Manufacturer Part No."
+F 8 "None" H 4750 6850 50  0001 C CNN "Source 1"
+F 9 "None" H 4750 6850 50  0001 C CNN "Source 1 Part No."
 F 10 "None" H 4750 6850 50  0001 C CNN "Source 2"
-F 11 "OSHW" H 4855 6805 50  0000 L CNN "Name"
+F 11 "None" H 4750 6850 50  0001 C CNN "Source 2 Part No."
 	1    4750 6850
 	1    0    0    -1  
 $EndComp
