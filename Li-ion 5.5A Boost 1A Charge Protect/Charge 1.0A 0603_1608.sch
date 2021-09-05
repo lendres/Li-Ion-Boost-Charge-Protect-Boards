@@ -194,7 +194,7 @@ L Frequently_Used_LE:R R7
 U 1 1 609BF722
 P 7000 3500
 F 0 "R7" V 6900 3400 59  0000 L CNN
-F 1 "1.54k" V 7100 3400 59  0000 L CNN
+F 1 "1.5k" V 7100 3400 59  0000 L CNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 7000 3500 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/348/esr_e-1139161.pdf" H 7000 3500 50  0001 C CNN
 F 4 "1.5 kOhms ±1% 0.25W, 1/4W Chip Resistor" H 7000 3500 50  0001 C CNN "Description"
@@ -313,7 +313,7 @@ L Frequently_Used_LE:R R8
 U 1 1 609BF782
 P 7250 3850
 F 0 "R8" V 7150 3750 59  0000 L CNN
-F 1 "69.8k" V 7350 3750 59  0000 L CNN
+F 1 "68k" V 7350 3750 59  0000 L CNN
 F 2 "Frequently_Used_LE:0603_1608Metric" H 7250 3850 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/348/esr_e-1139161.pdf" H 7250 3850 50  0001 C CNN
 F 4 "68 kOhms ±1% 0.25W, 1/4W Chip Resistor" H 7250 3850 50  0001 C CNN "Description"
