@@ -25,6 +25,9 @@ fp-info-cache
 *.xml
 *.csv
 
+# Exported geometry
+*.step
+
 # Gerber Files
 Gerbers/
 bom/
